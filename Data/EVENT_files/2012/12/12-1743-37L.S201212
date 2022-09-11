@@ -1,0 +1,30 @@
+ 2012 1212 1745 13.8 L   5.515  -0.544 8.40  BER  5 .30 3.4LBER                1
+ GAP=246   BER 0.790       4.0     2.3  8.0  0.1329E+01  0.9359E+01 -0.1120E+01E
+ 2012-12-12-1743-38S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:38 OP:opt  STATUS:               ID:20121212174337     3
+ OLDACT:UP  21-08-28 13:24 OP:opt  STATUS:               ID:20121212174337     3
+ OLDACT:UP  21-08-28 13:25 OP:opt  STATUS:               ID:20121212174337     3
+ OLDACT:UP  21-08-29 15:22 OP:opt  STATUS:               ID:20121212174337     3
+ OLDACT:UP  21-12-03 13:14 OP:opt  STATUS:               ID:20121212174337     3
+ OLDACT:UP  21-12-12 11:13 OP:opt  STATUS:               ID:20121212174337     3
+ OLDACT:UP  21-12-12 11:14 OP:opt  STATUS:               ID:20121212174337     3
+ ACTION:UP  21-12-24 12:55 OP:opt  STATUS:               ID:20121212174337     I
+ OLDACT:UP  21-12-23 17:36 OP:opt  STATUS:               ID:20121212174337     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1745 18.210              BER opt109.0 0.0710 24.7  71 
+ WEIJ HHE GH   ISg        1745 21.090              BER opt109.0-0.0710 24.7  71 
+ WEIJ HHN GH    IAML      1745 21.380 2489.0  0.24 BER opt     -0.43   24.7  71 
+ KUKU HHZ GH   IP         1745 26.370              BER opt 96.0-0.2510 77.4  15 
+ KUKU HHN GH    IAML      1745 27.110 1324.5  0.14 BER opt     -0.08   77.4  15 
+ KUKU HHE GH   ISg        1745 35.440              BER opt 96.0-0.1410 77.4  15 
+ SHAI HHN GH    IAML      1745 41.810 1243.0  0.14 BER opt     -0.07   81.8  55 
+ AKOS HHZ GH   IP         1745 32.040              BER opt 94.0 0.0910  110  38 
+ AKOS HHN GH    IAML      1745 33.930 1386.0  0.10 BER opt      0.17    110  38 
+ AKOS HHN GH   ISg        1745 45.240              BER opt 94.0 0.6010  110  38 
+ MRON HHZ GH   IP         1745 37.960              BER opt 76.0 0.4110  144 317 
+ MRON HHN GH    IAML      1745 40.320  371.5  0.20 BER opt     -0.21    144 317 
+ MRON HHN GH   ESg        1745 54.010              BER opt 93.0-0.1610  144 317 
+ KLEF HHZ GH   IP         1745 40.170              BER opt 76.0-0.4110  163  42 
+ KLEF HHN GH    IAML      1745 40.510 1977.0  0.10 BER opt      0.61    163  42 
+ KLEF HHN GH   ISg        1745 59.320              BER opt 93.0-0.1510  163  42 
+                                                                                

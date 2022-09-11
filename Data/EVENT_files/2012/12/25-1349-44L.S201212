@@ -1,0 +1,28 @@
+ 2012 1225 1351 17.9 L   5.615  -0.290 10.7  BER  5 .30 3.1LBER                1
+ GAP=191   BER 0.730       3.2     1.9  3.8 -0.1720E+01  0.2441E+00 -0.8093E+01E
+ 2012-12-25-1349-44S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:37 OP:opt  STATUS:               ID:20121225134944     3
+ OLDACT:UP  21-08-28 13:27 OP:opt  STATUS:               ID:20121225134944     3
+ OLDACT:UP  21-08-29 15:37 OP:opt  STATUS:               ID:20121225134944     3
+ OLDACT:UP  21-12-03 13:14 OP:opt  STATUS:               ID:20121225134944     3
+ OLDACT:UP  21-12-12 11:13 OP:opt  STATUS:               ID:20121225134944     3
+ OLDACT:UP  21-12-12 11:15 OP:opt  STATUS:               ID:20121225134944     3
+ ACTION:UP  21-12-24 12:55 OP:opt  STATUS:               ID:20121225134944     I
+ OLDACT:UP  21-12-23 17:36 OP:opt  STATUS:               ID:20121225134944     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1351 20.040              BER opt152.0 0.0810 5.68 239 
+ WEIJ HHN GH   ISg        1351 21.350              BER opt152.0-0.0210 5.68 239 
+ WEIJ HHN GH    IAML      1351 21.54013499.0  0.20 BER opt      0.14   5.68 239 
+ SHAI HHZ GH   IP         1351 26.600              BER opt101.0-0.1910 52.8  48 
+ SHAI HHE GH   ISg        1351 32.840              BER opt101.0-0.1610 52.8  48 
+ SHAI HHN GH    IAML      1351 32.870 1009.5  0.20 BER opt     -0.19   52.8  48 
+ KUKU HHZ GH   IP         1351 28.890              BER opt 99.0 0.2210 64.4 352 
+ KUKU HHE GH   ISg        1351 36.030              BER opt 99.0-0.1610 64.4 352 
+ KUKU HHN GH    IAML      1351 36.610  775.0  0.14 BER opt     -0.19   64.4 352 
+ KLEF HHZ GH   IP         1351 40.020              BER opt 76.0-0.3810  137  36 
+ KLEF HHN GH   ISg        1351 56.790              BER opt 94.0 0.5210  137  36 
+ KLEF HHN GH    IAML      1352 00.310  817.0  0.10 BER opt      0.33    137  36 
+ MRON HHZ GH   IP         1351 44.070              BER opt 76.0 0.3110  158 307 
+ MRON HHN GH   ISg        1352 01.940              BER opt 94.0-0.2110  158 307 
+ MRON HHN GH    IAML      1352 03.310  256.0  0.18 BER opt     -0.07    158 307 
+                                                                                

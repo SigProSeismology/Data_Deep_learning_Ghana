@@ -1,0 +1,24 @@
+ 2012 1206 1532 51.2 L   5.796  -0.296 15.0  BER  5 4.3 2.8LBER                1
+ GAP=122   BER 11.13      24.7    28.4185.0 -0.9442E+02 -0.7597E+03 -0.3835E+03E
+ 2012-12-06-1530-54S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:40 OP:opt  STATUS:               ID:20121206153054     3
+ OLDACT:UP  21-08-28 13:22 OP:opt  STATUS:               ID:20121206153054     3
+ OLDACT:UP  21-08-29 15:05 OP:opt  STATUS:               ID:20121206153054     3
+ OLDACT:UP  21-12-03 13:14 OP:opt  STATUS:               ID:20121206153054     3
+ OLDACT:UP  21-12-12 11:13 OP:opt  STATUS:               ID:20121206153054     3
+ OLDACT:UP  21-12-12 11:14 OP:opt  STATUS:               ID:20121206153054     3
+ ACTION:UP  21-12-24 12:55 OP:opt  STATUS:               ID:20121206153054     I
+ OLDACT:UP  21-12-23 17:36 OP:opt  STATUS:               ID:20121206153054     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1532 54.400              BER opt120.0-1.3410 23.3 190 
+ WEIJ HHN GH   ISg        1532 57.320              BER opt120.0-1.6210 23.3 190 
+ WEIJ HHN GH    IAML      1532 59.920 1032.5  0.18 BER opt     -0.18   23.3 190 
+ SHAI HHZ GH   IP         1533 03.450              BER opt104.0 4.8410 42.7  68 
+ KUKU HHZ GH   IP         1533 02.540              BER opt103.0 3.6310 44.6 350 
+ KUKU HHN GH    IAML      1533 03.320  522.5  0.14 BER opt     -0.19   44.6 350 
+ KLEF HHN GH   ISg        1533 16.180              BER opt 91.0-8.9210  122  42 
+ KLEF HHZ GH   IP         1533 16.380              BER opt 91.0 5.2510  122  42 
+ KLEF HHN GH    IAML      1533 35.730  464.5  0.20 BER opt      0.37    122  42 
+ MRON HHZ GH   IP         1533 14.260              BER opt 91.0-0.7710  146 300 
+ MRON HHN GH   ISg        1533 30.660              BER opt 91.0-1.0710  146 300 
+                                                                                
