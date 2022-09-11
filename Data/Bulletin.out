@@ -1,0 +1,1801 @@
+ 2012 1009 1205 46.1 L   5.576  -0.289 12.9  BER  5 .30 3.0LBER                1
+ GAP=242   BER 0.750       3.7     2.0  3.2 -0.2042E+01 -0.1085E+00 -0.5848E+01E
+ 2012-10-09-1204-13S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:51 OP:opt  STATUS:               ID:20121009120412     3
+ OLDACT:UP  21-08-28 21:39 OP:opt  STATUS:               ID:20121009120412     3
+ OLDACT:UP  21-08-28 21:40 OP:opt  STATUS:               ID:20121009120412     3
+ OLDACT:UP  21-08-28 21:40 OP:opt  STATUS:               ID:20121009120412     3
+ OLDACT:UP  21-08-28 21:40 OP:opt  STATUS:               ID:20121009120412     3
+ OLDACT:UP  21-08-28 21:52 OP:opt  STATUS:               ID:20121009120412     3
+ OLDACT:UP  21-08-30 20:48 OP:opt  STATUS:               ID:20121009120412     3
+ OLDACT:UP  21-12-03 13:12 OP:opt  STATUS:               ID:20121009120412     3
+ OLDACT:UP  21-12-12 11:05 OP:opt  STATUS:               ID:20121009120412     3
+ OLDACT:UP  21-12-12 11:11 OP:opt  STATUS:               ID:20121009120412     3
+ ACTION:UP  21-12-24 12:53 OP:opt  STATUS:               ID:20121009120412     I
+ OLDACT:UP  21-12-23 17:34 OP:opt  STATUS:               ID:20121009120412     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1205 48.500              BER opt159.0 0.0410 5.08 286 
+ WEIJ HHN GH   ISg        1205 50.090              BER opt159.0 0.0110 5.08 286 
+ WEIJ HHN GH    IAML      1205 50.530 5797.5  0.16 BER opt      0.01   5.08 286 
+ SHAI HHZ GH   IP         1205 55.420              BER opt103.0-0.1410 55.8  44 
+ SHAI HHN GH   ISg        1206 02.080              BER opt103.0-0.0710 55.8  44 
+ SHAI HHN GH    IAML      1206 02.330 1090.5  0.18 BER opt      0.05   55.8  44 
+ SHAI HHE GH    IAML      1206 02.480  840.0  0.24 BER opt     -0.07   55.8  44 
+ KUKU HHZ GH   IP         1205 57.850              BER opt100.0 0.2110 68.7 353 
+ KUKU HHN GH   ISg        1206 05.850              BER opt100.0 0.1610 68.7 353 
+ KUKU HHN GH    IAML      1206 09.100  692.5  0.12 BER opt     -0.03   68.7 353 
+ KLEF HHZ GH   IP         1206 08.730              BER opt 76.0-0.3510  140  35 
+ KLEF HHE GH    IAML      1206 09.940  159.0  0.10 BER opt     -0.20    140  35 
+ KLEF HHE GH   ISg        1206 25.670              BER opt 95.0 0.1610  140  35 
+ MRON HHZ GH   IP         1206 12.790              BER opt 76.0 0.4910  161 308 
+ MRON HHE GH   ISg        1206 30.640              BER opt 94.0-0.5010  161 308 
+ MRON HHN GH    IAML      1206 32.270  359.5  0.16 BER opt      0.26    161 308 
+                                                                                
+ 2012 1013 0307 56.2 L   5.354  -2.131 78.0  BER  6 .50 4.0LBER                1
+ GAP=309   BER  1.41      12.8     8.2 28.4  0.2920E+02  0.5216E+02  0.2470E+03E
+ 2012-10-13-0306-37S.NSN___018                                                 6
+ OLDACT:REG 21-09-09 14:28 OP:opt  STATUS:               ID:20121013030636     3
+ OLDACT:UP  21-09-09 14:31 OP:opt  STATUS:               ID:20121013030636     3
+ OLDACT:UP  21-09-09 14:32 OP:opt  STATUS:               ID:20121013030636     3
+ OLDACT:UP  21-12-03 13:12 OP:opt  STATUS:               ID:20121013030636     3
+ OLDACT:UP  21-12-12 10:43 OP:opt  STATUS:               ID:20121013030636     3
+ OLDACT:UP  21-12-12 11:05 OP:opt  STATUS:               ID:20121013030636     3
+ OLDACT:UP  21-12-12 11:10 OP:opt  STATUS:               ID:20121013030636     3
+ OLDACT:UP  21-12-12 11:11 OP:opt  STATUS:               ID:20121013030636     3
+ ACTION:UP  21-12-24 12:54 OP:opt  STATUS:               ID:20121013030636     I
+ OLDACT:UP  21-12-23 17:34 OP:opt  STATUS:               ID:20121013030636     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ MRON HHZ GH   IP         0308 21.010              BER opt114.0 0.1010  145  32 
+ MRON HHN GH   ISg        0308 38.010              BER opt114.0-0.1610  145  32 
+ WEIJ HHZ GH   IP         0308 28.470              BER opt106.0 0.0610  201  83 
+ WEIJ HHN GH   ISg        0308 50.290              BER opt106.0-0.6310  201  83 
+ WEIJ HHE GH    IAML      0308 52.610  661.5  0.10 BER opt     -0.22    201  83 
+ KUKU HHZ GH   IP         0308 30.790              BER opt105.0 0.2910  216  65 
+ KUKU HHN GH   ISg        0308 54.680              BER opt105.0 0.2010  216  65 
+ KUKU HHN GH    IAML      0308 55.680  961.5  0.14 BER opt     -0.00    216  65 
+ SHAI HHZ GH   IP         0308 35.770              BER opt102.0 0.3810  251  75 
+ SHAI HHN GH   ISg        0309 02.980              BER opt102.0 0.1810  251  75 
+ SHAI HHE GH    IAML      0309 04.970  329.0  0.22 BER opt     -0.34    251  75 
+ AKOS HHN GH   ISg        0309 07.120              BER opt102.0 1.0810  265  67 
+ AKOS HHE GH    IAML      0309 08.780  886.0  0.16 BER opt      0.14    265  67 
+ KLEF HHZ GH   IP         0308 43.870              BER opt 99.0-0.7510  317  64 
+ KLEF HHN GH   ISg        0309 17.710              BER opt 99.0-0.7710  317  64 
+ KLEF HHE GH    IAML      0309 24.780 1200.5  0.14 BER opt      0.45    317  64 
+                                                                                
+ 2012 1019 0838 27.0 L   5.493  -0.316 14.3  BER  5 .20 3.6LBER                1
+ GAP=270   BER 0.530       4.9     1.7  2.5 -0.1586E+01 -0.3339E+00 -0.1229E+01E
+ 2012-10-19-0836-54S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:47 OP:opt  STATUS:               ID:20121019083653     3
+ OLDACT:UP  21-08-28 12:59 OP:opt  STATUS:               ID:20121019083653     3
+ OLDACT:UP  21-08-28 22:15 OP:opt  STATUS:               ID:20121019083653     3
+ OLDACT:UP  21-12-03 13:12 OP:opt  STATUS:               ID:20121019083653     3
+ OLDACT:UP  21-12-12 11:11 OP:opt  STATUS:               ID:20121019083653     3
+ ACTION:UP  21-12-24 12:54 OP:opt  STATUS:               ID:20121019083653     I
+ OLDACT:UP  21-12-23 17:34 OP:opt  STATUS:               ID:20121019083653     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         0838 30.070              BER opt142.0 0.1310 10.7 350 
+ WEIJ HHN GH   ISg        0838 31.940              BER opt142.0-0.0710 10.7 350 
+ WEIJ HHN GH    IAML      0838 32.11036010.0  0.18 BER opt      0.29   10.7 350 
+ SHAI HHZ GH   IP         0838 37.780              BER opt 91.0-0.0610 64.6  40 
+ SHAI HHN GH    IAML      0838 46.870 5250.5  0.14 BER opt      0.18   64.6  40 
+ KUKU HHZ GH   IP         0838 39.990              BER opt 91.0 0.0910 77.5 356 
+ AKOS HHN GH    IAML      0838 54.980   93.2  4.13 BER opt     -1.31   98.7  26 
+ KLEF HHZ GH   IP         0838 51.010              BER opt 90.0-0.3410  150  34 
+ KLEF HHN GH   ISg        0839 08.590              BER opt 90.0 0.1910  150  34 
+ KLEF HHN GH    IAML      0839 10.550 3427.5  0.10 BER opt      0.55    150  34 
+ MRON HHZ GH   IP         0838 53.890              BER opt 90.0 0.2310  164 311 
+ MRON HHN GH   ISg        0839 12.160              BER opt 90.0-0.1710  164 311 
+ MRON HHE GH    IAML      0839 14.680 1562.0  0.16 BER opt      0.28    164 311 
+                                                                                
+ 2012 1029 1751 39.5 L   5.600  -0.486 22.1  BER  4 .10 3.1LBER                1
+ GAP=254   BER 0.330      11.4     1.8  9.3  0.1399E+02  0.7721E+01  0.9278E+02E
+ 2012-10-29-1749-51S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 22:45 OP:opt  STATUS:               ID:20121029174950     3
+ OLDACT:UP  21-08-28 13:10 OP:opt  STATUS:               ID:20121029174950     3
+ OLDACT:UP  21-08-29 10:55 OP:opt  STATUS:               ID:20121029174950     3
+ OLDACT:UP  21-08-29 13:00 OP:opt  STATUS:               ID:20121029174950     3
+ OLDACT:UP  21-08-29 13:00 OP:opt  STATUS:               ID:20121029174950     3
+ OLDACT:UP  21-12-03 13:13 OP:opt  STATUS:               ID:20121029174950     3
+ OLDACT:UP  21-12-12 11:11 OP:opt  STATUS:               ID:20121029174950     3
+ ACTION:UP  21-12-24 12:54 OP:opt  STATUS:               ID:20121029174950     I
+ OLDACT:UP  21-12-23 17:34 OP:opt  STATUS:               ID:20121029174950     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ KUKU HHZ GH   IP         1751 50.850              BER opt105.0-0.0210 66.7  11 
+ KUKU HHN GH    IAML      1751 51.540  517.5  0.10 BER opt     -0.30   66.7  11 
+ SHAI HHZ GH   IP         1751 51.620              BER opt 76.0 0.0810 71.2  58 
+ SHAI HHN GH    IAML      1752 07.720  593.0  0.18 BER opt     -0.21   71.2  58 
+ AKOS HHN GH    IAML      1751 58.240  496.5  0.10 BER opt     -0.09   98.6  38 
+ MRON HHZ GH   IP         1752 02.440              BER opt 76.0-0.0410  142 312 
+ MRON HHE GH   ISg        1752 19.020              BER opt 95.0 0.0410  142 312 
+ MRON HHN GH    IAML      1752 23.220  292.0  0.12 BER opt     -0.07    142 312 
+ KLEF HHZ GH   IP         1752 03.910              BER opt 76.0-0.0610  152  42 
+ KLEF HHE GH    IAML      1752 05.570  749.0  0.48 BER opt      0.39    152  42 
+ KLEF HHN GH    IAML      1752 21.710  577.5  0.18 BER opt      0.28    152  42 
+                                                                                
+ 2012 1118 1325 59.9 L   5.892   0.039 4.00  BER  3 .20 2.9LBER                1
+ GAP=203   BER 0.530       2.2     4.1  9.9  0.5321E-01  0.3542E+02  0.7042E+01E
+ 2012-11-18-1324-29S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:43 OP:opt  STATUS:               ID:20121118132428     3
+ OLDACT:UP  21-08-29 13:15 OP:opt  STATUS:               ID:20121118132428     3
+ OLDACT:UP  21-08-29 13:18 OP:opt  STATUS:               ID:20121118132428     3
+ OLDACT:UP  21-12-03 13:13 OP:opt  STATUS:               ID:20121118132428     3
+ OLDACT:UP  21-12-12 11:12 OP:opt  STATUS:               ID:20121118132428     3
+ ACTION:UP  21-12-24 12:54 OP:opt  STATUS:               ID:20121118132428     I
+ OLDACT:UP  21-12-23 17:35 OP:opt  STATUS:               ID:20121118132428     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ SHAI HHZ GH   IP         1326 00.960              BER opt125.0-0.0810 5.62  28 
+ SHAI HHE GH   ISg        1326 01.890              BER opt125.0 0.0510 5.62  28 
+ SHAI HHN GH    IAML      1326 02.19016036.0  0.20 BER opt      0.18   5.62  28 
+ AKOS HHN GH    IAML      1326 15.480  704.5  0.22 BER opt     -0.20   45.0   4 
+ WEIJ HHN GH   IP         1326 08.460              BER opt 93.0-0.2210 53.2 231 
+ WEIJ HHE GH   ISg        1326 14.960              BER opt 93.0 0.1310 53.2 231 
+ WEIJ HHN GH    IAML      1326 19.800  242.5  0.34 BER opt     -0.57   53.2 231 
+ MRON HHZ GH   IP         1326 28.980              BER opt 91.0 0.3010  175 291 
+ MRON HHN GH   ISg        1326 48.660              BER opt 91.0-0.1810  175 291 
+ MRON HHN GH    IAML      1326 52.160  545.0  0.22 BER opt      0.59    175 291 
+                                                                                
+ 2012 1124 0300 46.4 L   5.436  -0.369 14.1  BER  3 .10 3.1LBER                1
+ GAP=301   BER 0.370       3.4     2.4  5.9 -0.3044E+01  0.8436E+01 -0.1040E+02E
+ 2012-11-24-0258-50S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:42 OP:opt  STATUS:               ID:20121124025849     3
+ OLDACT:UP  21-08-29 13:23 OP:opt  STATUS:               ID:20121124025849     3
+ OLDACT:UP  21-12-03 13:13 OP:opt  STATUS:               ID:20121124025849     3
+ OLDACT:UP  21-12-12 11:12 OP:opt  STATUS:               ID:20121124025849     3
+ ACTION:UP  21-12-24 12:54 OP:opt  STATUS:               ID:20121124025849     I
+ OLDACT:UP  21-12-23 17:35 OP:opt  STATUS:               ID:20121124025849     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         0300 49.930              BER opt127.0-0.1210 17.3  13 
+ WEIJ HHN GH    IAML      0300 52.520 3504.0  0.20 BER opt     -0.10   17.3  13 
+ KUKU HHZ GH   IP         0301 00.360              BER opt 90.0 0.1210 83.6   0 
+ KUKU HHN GH   ISg        0301 09.950              BER opt 90.0-0.0110 83.6   0 
+ KLEF HHN GH    IAML      0301 35.640  189.5  0.16 BER opt     -0.16    158  34 
+ MRON HHN GH   IP         0301 13.060              BER opt 90.0 0.0510  164 314 
+ MRON HHE GH   ISg        0301 31.630              BER opt 90.0-0.0410  164 314 
+ MRON HHN GH    IAML      0301 34.540  469.5  0.20 BER opt      0.26    164 314 
+                                                                                
+ 2012 1130 0804 46.4 L   5.509  -0.397 7.50  BER  4 .40 3.1LBER                1
+ GAP=274   BER 0.980       9.4     3.3  8.0 -0.6510E+01  0.1245E+02 -0.8963E+01E
+ 2012-11-30-0802-48S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:41 OP:opt  STATUS:               ID:20121130080248     3
+ OLDACT:UP  21-08-29 13:31 OP:opt  STATUS:               ID:20121130080248     3
+ OLDACT:UP  21-12-03 13:13 OP:opt  STATUS:               ID:20121130080248     3
+ OLDACT:UP  21-12-12 11:12 OP:opt  STATUS:               ID:20121130080248     3
+ ACTION:UP  21-12-24 12:55 OP:opt  STATUS:               ID:20121130080248     I
+ OLDACT:UP  21-12-23 17:35 OP:opt  STATUS:               ID:20121130080248     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         0804 48.230              BER opt124.0-0.4310 11.2  39 
+ WEIJ HHN GH   ISg        0804 50.450              BER opt124.0 0.2210 11.2  39 
+ WEIJ HHN GH    IAML      0804 50.550 3851.5  0.22 BER opt     -0.30   11.2  39 
+ KUKU HHZ GH   IP         0804 58.610              BER opt 95.0-0.3010 75.6   2 
+ KUKU HHE GH    IAML      0805 13.080  765.5  0.12 BER opt     -0.05   75.6   2 
+ KLEF HHZ GH   IP         0805 12.360              BER opt 76.0 0.7210  153  37 
+ KLEF HHN GH   ISg        0805 29.030              BER opt 93.0-0.2610  153  37 
+ KLEF HHE GH    IAML      0805 34.090  596.0  0.18 BER opt      0.32    153  37 
+ MRON HHZ GH   IP         0805 11.990              BER opt 76.0-0.1110  156 313 
+ MRON HHN GH   ISg        0805 30.270              BER opt 92.0 0.1610  156 313 
+ MRON HHE GH    IAML      0805 31.750  302.5  0.14 BER opt      0.04    156 313 
+                                                                                
+ 2012 1130 1037 36.7 L   5.605  -0.312 6.40  BER  3 .30 2.6LBER                1
+ GAP=238   BER 0.740       4.9     4.6  6.4 -0.7222E+01  0.1044E+02 -0.2745E+02E
+ 2012-11-30-1035-47S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:41 OP:opt  STATUS:               ID:20121130103547     3
+ OLDACT:UP  21-08-29 14:59 OP:opt  STATUS:               ID:20121130103547     3
+ OLDACT:UP  21-12-03 13:14 OP:opt  STATUS:               ID:20121130103547     3
+ OLDACT:UP  21-12-12 11:12 OP:opt  STATUS:               ID:20121130103547     3
+ ACTION:UP  21-12-24 12:55 OP:opt  STATUS:               ID:20121130103547     I
+ OLDACT:UP  21-12-23 17:36 OP:opt  STATUS:               ID:20121130103547     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1037 37.880              BER opt156.0 0.0110 2.91 233 
+ WEIJ HHN GH   ISg        1037 38.700              BER opt156.0-0.0110 2.91 233 
+ WEIJ HHN GH    IAML      1037 39.000 7694.5  0.22 BER opt      0.12   2.91 233 
+ KUKU HHZ GH   IP         1037 47.060              BER opt 95.0-0.4110 65.3 355 
+ KUKU HHN GH    IAML      1037 49.880  291.5  0.14 BER opt     -0.11   65.3 355 
+ KUKU HHN GH   ISg        1037 55.270              BER opt 95.0 0.2410 65.3 355 
+ MRON HHZ GH   IP         1038 02.830              BER opt 92.0 0.4010  157 307 
+ MRON HHN GH   ISg        1038 20.230              BER opt 92.0-0.2310  157 307 
+                                                                                
+ 2012 1206 1532 51.2 L   5.796  -0.296 15.0  BER  5 4.3 2.8LBER                1
+ GAP=122   BER 11.13      24.7    28.4185.0 -0.9442E+02 -0.7597E+03 -0.3835E+03E
+ 2012-12-06-1530-54S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:40 OP:opt  STATUS:               ID:20121206153054     3
+ OLDACT:UP  21-08-28 13:22 OP:opt  STATUS:               ID:20121206153054     3
+ OLDACT:UP  21-08-29 15:05 OP:opt  STATUS:               ID:20121206153054     3
+ OLDACT:UP  21-12-03 13:14 OP:opt  STATUS:               ID:20121206153054     3
+ OLDACT:UP  21-12-12 11:13 OP:opt  STATUS:               ID:20121206153054     3
+ OLDACT:UP  21-12-12 11:14 OP:opt  STATUS:               ID:20121206153054     3
+ ACTION:UP  21-12-24 12:55 OP:opt  STATUS:               ID:20121206153054     I
+ OLDACT:UP  21-12-23 17:36 OP:opt  STATUS:               ID:20121206153054     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1532 54.400              BER opt120.0-1.3410 23.3 190 
+ WEIJ HHN GH   ISg        1532 57.320              BER opt120.0-1.6210 23.3 190 
+ WEIJ HHN GH    IAML      1532 59.920 1032.5  0.18 BER opt     -0.18   23.3 190 
+ SHAI HHZ GH   IP         1533 03.450              BER opt104.0 4.8410 42.7  68 
+ KUKU HHZ GH   IP         1533 02.540              BER opt103.0 3.6310 44.6 350 
+ KUKU HHN GH    IAML      1533 03.320  522.5  0.14 BER opt     -0.19   44.6 350 
+ KLEF HHN GH   ISg        1533 16.180              BER opt 91.0-8.9210  122  42 
+ KLEF HHZ GH   IP         1533 16.380              BER opt 91.0 5.2510  122  42 
+ KLEF HHN GH    IAML      1533 35.730  464.5  0.20 BER opt      0.37    122  42 
+ MRON HHZ GH   IP         1533 14.260              BER opt 91.0-0.7710  146 300 
+ MRON HHN GH   ISg        1533 30.660              BER opt 91.0-1.0710  146 300 
+                                                                                
+ 2012 1212 1745 13.8 L   5.515  -0.544 8.40  BER  5 .30 3.4LBER                1
+ GAP=246   BER 0.790       4.0     2.3  8.0  0.1329E+01  0.9359E+01 -0.1120E+01E
+ 2012-12-12-1743-38S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:38 OP:opt  STATUS:               ID:20121212174337     3
+ OLDACT:UP  21-08-28 13:24 OP:opt  STATUS:               ID:20121212174337     3
+ OLDACT:UP  21-08-28 13:25 OP:opt  STATUS:               ID:20121212174337     3
+ OLDACT:UP  21-08-29 15:22 OP:opt  STATUS:               ID:20121212174337     3
+ OLDACT:UP  21-12-03 13:14 OP:opt  STATUS:               ID:20121212174337     3
+ OLDACT:UP  21-12-12 11:13 OP:opt  STATUS:               ID:20121212174337     3
+ OLDACT:UP  21-12-12 11:14 OP:opt  STATUS:               ID:20121212174337     3
+ ACTION:UP  21-12-24 12:55 OP:opt  STATUS:               ID:20121212174337     I
+ OLDACT:UP  21-12-23 17:36 OP:opt  STATUS:               ID:20121212174337     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1745 18.210              BER opt109.0 0.0710 24.7  71 
+ WEIJ HHE GH   ISg        1745 21.090              BER opt109.0-0.0710 24.7  71 
+ WEIJ HHN GH    IAML      1745 21.380 2489.0  0.24 BER opt     -0.43   24.7  71 
+ KUKU HHZ GH   IP         1745 26.370              BER opt 96.0-0.2510 77.4  15 
+ KUKU HHN GH    IAML      1745 27.110 1324.5  0.14 BER opt     -0.08   77.4  15 
+ KUKU HHE GH   ISg        1745 35.440              BER opt 96.0-0.1410 77.4  15 
+ SHAI HHN GH    IAML      1745 41.810 1243.0  0.14 BER opt     -0.07   81.8  55 
+ AKOS HHZ GH   IP         1745 32.040              BER opt 94.0 0.0910  110  38 
+ AKOS HHN GH    IAML      1745 33.930 1386.0  0.10 BER opt      0.17    110  38 
+ AKOS HHN GH   ISg        1745 45.240              BER opt 94.0 0.6010  110  38 
+ MRON HHZ GH   IP         1745 37.960              BER opt 76.0 0.4110  144 317 
+ MRON HHN GH    IAML      1745 40.320  371.5  0.20 BER opt     -0.21    144 317 
+ MRON HHN GH   ESg        1745 54.010              BER opt 93.0-0.1610  144 317 
+ KLEF HHZ GH   IP         1745 40.170              BER opt 76.0-0.4110  163  42 
+ KLEF HHN GH    IAML      1745 40.510 1977.0  0.10 BER opt      0.61    163  42 
+ KLEF HHN GH   ISg        1745 59.320              BER opt 93.0-0.1510  163  42 
+                                                                                
+ 2012 1225 1351 17.9 L   5.615  -0.290 10.7  BER  5 .30 3.1LBER                1
+ GAP=191   BER 0.730       3.2     1.9  3.8 -0.1720E+01  0.2441E+00 -0.8093E+01E
+ 2012-12-25-1349-44S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:37 OP:opt  STATUS:               ID:20121225134944     3
+ OLDACT:UP  21-08-28 13:27 OP:opt  STATUS:               ID:20121225134944     3
+ OLDACT:UP  21-08-29 15:37 OP:opt  STATUS:               ID:20121225134944     3
+ OLDACT:UP  21-12-03 13:14 OP:opt  STATUS:               ID:20121225134944     3
+ OLDACT:UP  21-12-12 11:13 OP:opt  STATUS:               ID:20121225134944     3
+ OLDACT:UP  21-12-12 11:15 OP:opt  STATUS:               ID:20121225134944     3
+ ACTION:UP  21-12-24 12:55 OP:opt  STATUS:               ID:20121225134944     I
+ OLDACT:UP  21-12-23 17:36 OP:opt  STATUS:               ID:20121225134944     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1351 20.040              BER opt152.0 0.0810 5.68 239 
+ WEIJ HHN GH   ISg        1351 21.350              BER opt152.0-0.0210 5.68 239 
+ WEIJ HHN GH    IAML      1351 21.54013499.0  0.20 BER opt      0.14   5.68 239 
+ SHAI HHZ GH   IP         1351 26.600              BER opt101.0-0.1910 52.8  48 
+ SHAI HHE GH   ISg        1351 32.840              BER opt101.0-0.1610 52.8  48 
+ SHAI HHN GH    IAML      1351 32.870 1009.5  0.20 BER opt     -0.19   52.8  48 
+ KUKU HHZ GH   IP         1351 28.890              BER opt 99.0 0.2210 64.4 352 
+ KUKU HHE GH   ISg        1351 36.030              BER opt 99.0-0.1610 64.4 352 
+ KUKU HHN GH    IAML      1351 36.610  775.0  0.14 BER opt     -0.19   64.4 352 
+ KLEF HHZ GH   IP         1351 40.020              BER opt 76.0-0.3810  137  36 
+ KLEF HHN GH   ISg        1351 56.790              BER opt 94.0 0.5210  137  36 
+ KLEF HHN GH    IAML      1352 00.310  817.0  0.10 BER opt      0.33    137  36 
+ MRON HHZ GH   IP         1351 44.070              BER opt 76.0 0.3110  158 307 
+ MRON HHN GH   ISg        1352 01.940              BER opt 94.0-0.2110  158 307 
+ MRON HHN GH    IAML      1352 03.310  256.0  0.18 BER opt     -0.07    158 307 
+                                                                                
+ 2013 0106 1307 04.9 L   5.509  -0.327 13.9  BER  5 .20 3.2LBER                1
+ GAP=268   BER 0.500       3.0     1.5  1.9 -0.1632E+00 -0.4981E+00 -0.4533E+00E
+ 2013-01-06-1306-45S.NSN___018                                                 6
+ OLDACT:REG 21-09-13 21:58 OP:opt  STATUS:               ID:20130106130644     3
+ OLDACT:REE 21-09-13 22:01 OP:opt  STATUS:               ID:20130106130644     3
+ OLDACT:UP  21-09-13 22:02 OP:opt  STATUS:               ID:20130106130644     3
+ OLDACT:UP  21-12-03 13:15 OP:opt  STATUS:               ID:20130106130644     3
+ OLDACT:UP  21-12-12 11:15 OP:opt  STATUS:               ID:20130106130644     3
+ ACTION:UP  21-12-24 12:59 OP:opt  STATUS:               ID:20130106130644     I
+ OLDACT:UP  21-12-23 17:37 OP:opt  STATUS:               ID:20130106130644     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1307 07.880              BER    148.0 0.2010 8.84 355 
+ WEIJ HHE GH   ISg        1307 09.500              BER    148.0-0.1010 8.84 355 
+ WEIJ HHN GH    IAML      1307 09.720 8377.5  0.16 BER         -0.03   8.84 355 
+ SHAI HHZ GH   IP         1307 15.710              BER     76.0-0.0110 64.1  42 
+ SHAI HHE GH   ISg        1307 23.210              BER    102.0-0.0510 64.1  42 
+ SHAI HHN GH    IAML      1307 23.580 1118.0  0.20 BER         -0.14   64.1  42 
+ KUKU HHZ GH   IP         1307 17.880              BER opt 76.0 0.3010 75.7 356 
+ KUKU HHE GH   ISg        1307 26.560              BER opt100.0 0.0910 75.7 356 
+ KUKU HHN GH    IAML      1307 27.540  773.5  0.10 BER opt     -0.20   75.7 356 
+ KLEF HHZ GH   IP         1307 28.930              BER     76.0-0.2610  149  35 
+ KLEF HHN GH   ISg        1307 46.700              BER opt 95.0 0.0110  149  35 
+ KLEF HHN GH    IAML      1307 51.640  710.5  0.10 BER opt      0.22    149  35 
+ MRON HHE GH   ISg        1307 50.200              BER     95.0-0.1810  162 311 
+ MRON HHN GH    IAML      1307 52.520  532.5  0.16 BER          0.16    162 311 
+                                                                                
+ 2013 0111 1631 45.1 L   5.517  -0.316 15.0  BER  6 .20 3.2LBER                1
+ GAP=268   BER 0.640       3.2     1.7  1.9 -0.1425E+01 -0.1508E+00 -0.1893E+01E
+ 2013-01-11-1629-48S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:34 OP:opt  STATUS:               ID:20130111162947     3
+ OLDACT:UP  21-08-28 13:32 OP:opt  STATUS:               ID:20130111162947     3
+ OLDACT:REE 21-08-29 15:41 OP:opt  STATUS:               ID:20130111162947     3
+ OLDACT:UP  21-08-29 17:27 OP:opt  STATUS:               ID:20130111162947     3
+ OLDACT:UP  21-12-03 13:15 OP:opt  STATUS:               ID:20130111162947     3
+ OLDACT:UP  21-12-12 11:15 OP:opt  STATUS:               ID:20130111162947     3
+ ACTION:UP  21-12-24 12:59 OP:opt  STATUS:               ID:20130111162947     I
+ OLDACT:UP  21-12-23 17:37 OP:opt  STATUS:               ID:20130111162947     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1631 47.980              BER opt151.0 0.0810 8.16 346 
+ WEIJ HHE GH   ISg        1631 49.530              BER opt151.0-0.3610 8.16 346 
+ WEIJ HHN GH   ISg        1631 49.570              BER opt151.0-0.3210 8.16 346 
+ WEIJ HHN GH    IAML      1631 49.760 6151.5  0.20 BER opt     -0.09   8.16 346 
+ SHAI HHZ GH   IP         1631 55.630              BER opt 95.0 0.0110 62.6  42 
+ SHAI HHE GH   ISg        1632 02.680              BER opt 95.0-0.3210 62.6  42 
+ SHAI HHN GH    IAML      1632 03.340 1855.0  0.10 BER opt      0.12   62.6  42 
+ KUKU HHN GH    IAML      1631 57.890  780.5  0.10 BER opt     -0.15   74.9 356 
+ KUKU HHZ GH   IP         1631 57.940              BER opt 93.0 0.3610 74.9 356 
+ KUKU HHN GH   ISg        1632 06.200              BER opt 93.0-0.1310 74.9 356 
+ AKOS HHZ GH   IP         1632 01.030              BER opt 91.0 0.0610 96.3  26 
+ AKOS HHE GH   ISg        1632 12.340              BER opt 91.0 0.2410 96.3  26 
+ AKOS HHN GH    IAML      1632 14.090 1282.0  0.14 BER opt      0.22   96.3  26 
+ KLEF HHZ GH   IP         1632 09.040              BER opt 91.0-0.0510  147  35 
+ KLEF HHN GH    IAML      1632 11.240  321.5  0.12 BER opt     -0.09    147  35 
+ KLEF HHN GH   ISg        1632 26.100              BER opt 91.0 0.2010  147  35 
+ MRON HHZ GH   IP         1632 11.770              BER opt 91.0 0.2910  162 310 
+ MRON HHN GH   ISg        1632 29.890              BER opt 91.0-0.0710  162 310 
+                                                                                
+ 2013 0116 1813 19.2 L   5.427  -0.454 12.0  BER  2 .30 2.7LBER                1
+ GAP=360   BER 0.880     999.9   999.9 28.1 -0.3620E+08  0.1889E+06 -0.1416E+06E
+ 2013-01-16-1811-31S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:33 OP:opt  STATUS:               ID:20130116181130     3
+ OLDACT:UP  21-08-29 17:35 OP:opt  STATUS:               ID:20130116181130     3
+ OLDACT:UP  21-12-03 13:15 OP:opt  STATUS:               ID:20130116181130     3
+ OLDACT:UP  21-12-03 13:15 OP:opt  STATUS:               ID:20130116181130     3
+ OLDACT:UP  21-12-12 11:15 OP:opt  STATUS:               ID:20130116181130     3
+ OLDACT:UP  21-12-23 17:37 OP:opt  STATUS:               ID:20130116181130     3
+ ACTION:UP  21-12-24 13:00 OP:opt  STATUS:               ID:20130116181130     I
+ OLDACT:UP  21-12-24 12:59 OP:opt  STATUS:               ID:20130116181130     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1813 23.790              BER opt118.0 0.3710 22.3  37 
+ WEIJ HHN GH   ISg        1813 25.980              BER opt118.0-0.3610 22.3  37 
+ WEIJ HHN GH    IAML      1813 26.350 1202.5  0.40 BER opt     -0.08   22.3  37 
+ SHAI HHN GH    IAML      1813 36.050  253.0  0.18 BER opt     -0.09   80.4  45 
+ KUKU HHN GH    IAML      1813 32.760  331.5  0.10 BER opt      0.06   85.2   6 
+ KLEF HHZ GH   IP         1813 45.710              BER opt 76.0-0.3210  164  37 
+ KLEF HHN GH   ISg        1814 05.580              BER opt 94.0 0.3110  164  37 
+ KLEF HHE GH    IAML      1814 05.770  135.5  0.20 BER opt      0.13    164  37 
+                                                                                
+ 2013 0121 1305 41.5 L   6.694   1.305 15.0  BER  5 .90 3.7LBER                1
+ GAP=331   BER  2.28      25.9    73.1191.0  0.9343E+03 -0.1365E+05 -0.2830E+04E
+ 2013-01-21-1304-20S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:32 OP:opt  STATUS:               ID:20130121130420     3
+ OLDACT:UP  21-08-28 13:35 OP:opt  STATUS:               ID:20130121130420     3
+ OLDACT:UP  21-08-28 13:35 OP:opt  STATUS:               ID:20130121130420     3
+ OLDACT:UP  21-08-29 18:14 OP:opt  STATUS:               ID:20130121130420     3
+ OLDACT:UP  21-08-29 18:14 OP:opt  STATUS:               ID:20130121130420     3
+ OLDACT:UP  21-08-29 18:14 OP:opt  STATUS:               ID:20130121130420     3
+ OLDACT:UP  21-12-03 13:15 OP:opt  STATUS:               ID:20130121130420     3
+ OLDACT:UP  21-12-12 11:15 OP:opt  STATUS:               ID:20130121130420     3
+ ACTION:UP  21-12-24 13:00 OP:opt  STATUS:               ID:20130121130420     I
+ OLDACT:UP  21-12-23 17:37 OP:opt  STATUS:               ID:20130121130420     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ KLEF HHZ GH   IP         1305 57.120              BER opt 91.0-0.2710 96.0 265 
+ KLEF HHN GH    IAML      1306 00.810 2772.0  0.24 BER opt      0.01   96.0 265 
+ AKOS HHZ GH   IP         1306 04.940              BER opt 91.0-0.0110  144 252 
+ AKOS HHE GH   ISg        1306 23.240              BER opt 91.0 1.9110  144 252 
+ AKOS HHN GH    IAML      1306 24.020 4656.0  0.12 BER opt      0.52    144 252 
+ SHAI HHZ GH   IP         1306 07.750              BER opt 91.0 0.0610  161 239 
+ SHAI HHE GH    IAML      1306 28.470  986.0  0.26 BER opt     -0.07    161 239 
+ KUKU HHZ GH   IP         1306 12.530              BER opt 76.0-0.1610  193 253 
+ KUKU HHN GH   ISg        1306 33.290              BER opt 90.0-1.4410  193 253 
+ KUKU HHN GH    IAML      1306 35.850  503.0  0.12 BER opt     -0.21    193 253 
+ WEIJ HHZ GH   IP         1306 16.990              BER opt 76.0 0.4010  219 236 
+ WEIJ HHN GH    IAML      1306 18.220  340.5  0.18 BER opt     -0.27    219 236 
+ WEIJ HHN GH   ISg        1306 41.100              BER opt 90.0-0.4910  219 236 
+                                                                                
+ 2013 0212 1748 02.4 L   5.494  -0.547 8.30  BER  5 .40 2.8LBER                1
+ GAP=251   BER  1.09       6.1     3.1 12.4  0.4672E+01  0.1303E+02 -0.4484E+01E
+ 2013-02-12-1746-27S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:32 OP:opt  STATUS:               ID:20130212174626     3
+ OLDACT:UP  21-08-28 13:42 OP:opt  STATUS:               ID:20130212174626     3
+ OLDACT:UP  21-08-29 18:16 OP:opt  STATUS:               ID:20130212174626     3
+ OLDACT:UP  21-08-29 18:16 OP:opt  STATUS:               ID:20130212174626     3
+ OLDACT:UP  21-08-29 18:17 OP:opt  STATUS:               ID:20130212174626     3
+ OLDACT:UP  21-08-29 18:18 OP:opt  STATUS:               ID:20130212174626     3
+ OLDACT:UP  21-12-03 13:16 OP:opt  STATUS:               ID:20130212174626     3
+ OLDACT:UP  21-12-03 13:16 OP:opt  STATUS:               ID:20130212174626     3
+ OLDACT:UP  21-12-12 11:16 OP:opt  STATUS:               ID:20130212174626     3
+ ACTION:UP  21-12-24 13:00 OP:opt  STATUS:               ID:20130212174626     I
+ OLDACT:UP  21-12-23 17:38 OP:opt  STATUS:               ID:20130212174626     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1748 06.870              BER opt108.0-0.0210 25.8  66 
+ WEIJ HHN GH   ISg        1748 10.020              BER opt108.0-0.0010 25.8  66 
+ WEIJ HHN GH    IAML      1748 23.090 1352.5  0.18 BER opt     -0.15   25.8  66 
+ KUKU HHZ GH   IP         1748 15.230              BER opt 96.0-0.3610 79.6  14 
+ KUKU HHN GH   ISg        1748 24.430              BER opt 96.0-0.3710 79.6  14 
+ SHAI HHZ GH   IP         1748 16.180              BER opt 95.0-0.0110 83.4  54 
+ MRON HHZ GH   IP         1748 26.950              BER opt 93.0 0.5510  146 317 
+ MRON HHN GH    IAML      1748 29.290  239.0  0.10 BER opt      0.14    146 317 
+ MRON HHE GH   ISg        1748 43.110              BER opt 93.0-0.0710  146 317 
+ KLEF HHZ GH   IP         1748 28.950              BER opt 76.0-0.5310  165  41 
+ KLEF HHN GH   ISg        1748 49.390              BER opt 93.0 0.8010  165  41 
+                                                                                
+ 2013 0316 1758 33.9 L   5.512  -0.525 11.5  BER  4 .10 3.0LBER                1
+ GAP=248   BER 0.420       3.2     1.3  3.4  0.1115E+01  0.2046E+01 -0.1705E+01E
+ 2013-03-16-1756-58S.NSN___018_SEI                                             6
+ OLDACT:REG 21-08-27 22:30 OP:opt  STATUS:               ID:20130316175657     3
+ OLDACT:UP  21-08-28 13:45 OP:opt  STATUS:               ID:20130316175657     3
+ OLDACT:UP  21-08-29 18:28 OP:opt  STATUS:               ID:20130316175657     3
+ OLDACT:UP  21-08-29 18:35 OP:opt  STATUS:               ID:20130316175657     3
+ OLDACT:UP  21-12-03 13:17 OP:opt  STATUS:               ID:20130316175657     3
+ OLDACT:UP  21-12-12 11:16 OP:opt  STATUS:               ID:20130316175657     3
+ ACTION:UP  21-12-24 13:00 OP:opt  STATUS:               ID:20130316175657     I
+ OLDACT:UP  21-12-23 17:38 OP:opt  STATUS:               ID:20130316175657     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1758 38.160              BER opt117.0 0.0410 22.8  68 
+ WEIJ HHN GH    IAML      1758 38.680 1019.5  0.12 BER opt     -0.49   22.8  68 
+ WEIJ HHN GH   ISg        1758 41.030              BER opt117.0-0.0410 22.8  68 
+ KUKU HHN GH    IAML      1758 59.420  722.0  0.16 BER opt     -0.00   77.2  13 
+ SHAI HHZ GH   IP         1758 47.230              BER opt 98.0 0.0110 80.3  54 
+ SHAI HHN GH    IAML      1759 01.800  523.5  0.14 BER opt     -0.12   80.3  54 
+ MRON HHZ GH   IP         1758 57.950              BER opt 76.0 0.1810  146 316 
+ MRON HHE GH   ISg        1759 14.660              BER opt 94.0-0.1110  146 316 
+ MRON HHN GH    IAML      1759 18.990  341.0  0.10 BER opt      0.10    146 316 
+ KLEF HHZ GH   IP         1759 00.120              BER opt 76.0-0.2210  162  41 
+ KLEF HHN GH    IAML      1759 01.340  729.5  0.10 BER opt      0.51    162  41 
+ KLEF HHT GH   ISg        1759 19.390              BER opt 94.0 0.1310  162  41 
+                                                                                
+ 2013 0318 2105 53.9 L   5.570  -0.251 10.6  BER  5 .10 3.2LBER                1
+ GAP=242   BER 0.320       2.1     1.5  4.0 -0.1165E-01 -0.3853E+01 -0.5226E+01E
+ 2013-03-18-2103-56S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:27 OP:opt  STATUS:               ID:20130318210356     3
+ OLDACT:UP  21-08-28 13:47 OP:opt  STATUS:               ID:20130318210356     3
+ OLDACT:UP  21-08-29 18:38 OP:opt  STATUS:               ID:20130318210356     3
+ OLDACT:UP  21-08-29 18:39 OP:opt  STATUS:               ID:20130318210356     3
+ OLDACT:UP  21-09-13 22:17 OP:opt  STATUS:               ID:20130318210356     3
+ OLDACT:UP  21-09-13 22:17 OP:opt  STATUS:               ID:20130318210356     3
+ OLDACT:UP  21-12-03 13:17 OP:opt  STATUS:               ID:20130318210356     3
+ OLDACT:UP  21-12-12 11:16 OP:opt  STATUS:               ID:20130318210356     3
+ ACTION:UP  21-12-24 13:00 OP:opt  STATUS:               ID:20130318210356     I
+ OLDACT:UP  21-12-23 17:38 OP:opt  STATUS:               ID:20130318210356     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         2105 56.260              BER opt139.0-0.0310 9.37 283 
+ WEIJ HHN GH    IAML      2105 57.93012884.5  0.10 BER opt      0.16   9.37 283 
+ WEIJ HHE GH    IAML      2105 57.97010412.5  0.20 BER opt      0.07   9.37 283 
+ WEIJ HHN GH   ISg        2105 57.970              BER opt139.0 0.0310 9.37 283 
+ SHAI HHZ GH   IP         2106 02.890              BER opt101.0-0.0010 53.4  41 
+ SHAI HHN GH   ISg        2106 09.150              BER opt101.0-0.0110 53.4  41 
+ SHAI HHT GH   ISg        2106 09.160              BER opt101.0 0.0010 53.4  41 
+ SHAI HHN GH    IAML      2106 09.680 1447.0  0.12 BER opt     -0.06   53.4  41 
+ KUKU HHE GH   ISg        2106 13.770              BER opt 98.0 0.0310 70.0 349 
+ KUKU HHN GH    IAML      2106 20.140  516.5  0.16 BER opt     -0.35   70.0 349 
+ AKOS HHE GH   ISg        2106 18.530              BER opt 97.0-0.1510 87.9  24 
+ AKOS HHN GH    IAML      2106 19.550  751.0  0.10 BER opt     -0.05   87.9  24 
+ KLEF HHN GH   ISg        2106 32.870              BER opt 94.0 0.1410  139  34 
+ KLEF HHN GH    IAML      2106 35.080  707.5  0.20 BER opt      0.24    139  34 
+                                                                                
+ 2013 0330 1743 40.2 L   5.404  -0.507 14.1  BER  4 .40 3.2LBER                1
+ GAP=323   BER  1.16       8.0     9.9 12.4  0.1320E+01  0.5872E+02 -0.1069E+02E
+ 2013-03-30-1741-54S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:25 OP:opt  STATUS:               ID:20130330174154     3
+ OLDACT:UP  21-08-28 13:48 OP:opt  STATUS:               ID:20130330174154     3
+ OLDACT:UP  21-08-28 13:48 OP:opt  STATUS:               ID:20130330174154     3
+ OLDACT:UP  21-08-29 18:51 OP:opt  STATUS:               ID:20130330174154     3
+ OLDACT:UP  21-08-29 18:53 OP:opt  STATUS:               ID:20130330174154     3
+ OLDACT:UP  21-12-03 13:17 OP:opt  STATUS:               ID:20130330174154     3
+ OLDACT:UP  21-12-12 11:17 OP:opt  STATUS:               ID:20130330174154     3
+ ACTION:UP  21-12-24 13:00 OP:opt  STATUS:               ID:20130330174154     I
+ OLDACT:UP  21-12-23 17:38 OP:opt  STATUS:               ID:20130330174154     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1743 45.860              BER opt113.0 0.5010 28.1  43 
+ WEIJ HHN GH   ISg        1743 48.560              BER opt113.0-0.4210 28.1  43 
+ WEIJ HHN GH    IAML      1743 48.910 1912.0  0.36 BER opt     -0.28   28.1  43 
+ SHAI HHZ GH   IP         1743 54.780              BER opt 90.0 0.2910 86.4  47 
+ SHAI HHN GH    IAML      1744 10.900  669.0  0.20 BER opt     -0.13   86.4  47 
+ KUKU HHZ GH   IP         1743 54.060              BER opt 90.0-0.7810 88.5  10 
+ KUKU HHZ GH   ISg        1744 05.590              BER opt 90.0 0.4910 88.5  10 
+ KUKU HHN GH    IAML      1744 09.200  567.5  0.12 BER opt     -0.19   88.5  10 
+ AKOS HHE GH    IAML      1744 01.290  496.0  0.22 BER opt     -0.06    118  33 
+ MRON HHE GH    IAML      1744 26.150  432.0  0.12 BER opt      0.09    156 319 
+ KLEF HHZ GH   IP         1744 07.780              BER opt 90.0-0.0010  170  38 
+ KLEF HHN GH    IAML      1744 08.180 1172.0  0.10 BER opt      0.59    170  38 
+ KLEF HHN GH   ISg        1744 27.020              BER opt 90.0-0.0910  170  38 
+                                                                                
+ 2013 0503 0331 46.2 L   5.558  -0.290 13.1  BER  4 .20 2.6LBER                1
+ GAP=262   BER 0.690       4.0     2.6  5.1  0.1248E+01 -0.6590E+01 -0.1359E+02E
+ 2013-05-03-0330-13S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:24 OP:opt  STATUS:               ID:20130503033013     3
+ OLDACT:UP  21-08-28 14:04 OP:opt  STATUS:               ID:20130503033013     3
+ OLDACT:UP  21-08-28 14:04 OP:opt  STATUS:               ID:20130503033013     3
+ OLDACT:UP  21-08-28 14:05 OP:opt  STATUS:               ID:20130503033013     3
+ OLDACT:UP  21-08-28 14:05 OP:opt  STATUS:               ID:20130503033013     3
+ OLDACT:UP  21-08-29 18:55 OP:opt  STATUS:               ID:20130503033013     3
+ OLDACT:UP  21-08-29 18:56 OP:opt  STATUS:               ID:20130503033013     3
+ OLDACT:UP  21-08-29 18:57 OP:opt  STATUS:               ID:20130503033013     3
+ OLDACT:UP  21-12-03 13:17 OP:opt  STATUS:               ID:20130503033013     3
+ OLDACT:UP  21-12-12 11:17 OP:opt  STATUS:               ID:20130503033013     3
+ ACTION:UP  21-12-24 13:01 OP:opt  STATUS:               ID:20130503033013     I
+ OLDACT:UP  21-12-23 17:39 OP:opt  STATUS:               ID:20130503033013     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         0331 48.680              BER opt156.0 0.0610 5.86 305 
+ WEIJ HHE GH   ISg        0331 50.350              BER opt156.0 0.0610 5.86 305 
+ WEIJ HHN GH    IAML      0331 50.800 3327.5  0.14 BER opt      0.17   5.86 305 
+ SHAI HHE GH   IP         0331 55.630              BER opt103.0-0.2510 57.3  43 
+ SHAI HHT GH   ISg        0332 02.430              BER opt103.0-0.2110 57.3  43 
+ SHAI HHN GH   ISg        0332 02.490              BER opt103.0-0.1510 57.3  43 
+ SHAI HHN GH    IAML      0332 02.530  268.0  0.18 BER opt     -0.16   57.3  43 
+ KUKU HHZ GH   IP         0331 58.140              BER opt100.0 0.1010 70.6 353 
+ KUKU HHE GH   ISg        0332 06.190              BER opt100.0-0.1210 70.6 353 
+ KUKU HHT GH   ISg        0332 06.200              BER opt100.0-0.1110 70.6 353 
+ KUKU HHN GH    IAML      0332 07.470  114.0  0.18 BER opt     -0.41   70.6 353 
+ KLEF HHN GH   ISg        0332 26.670              BER opt 95.0 0.6210  142  35 
+ KLEF HHN GH    IAML      0332 30.640  235.5  0.10 BER opt      0.37    142  35 
+                                                                                
+ 2013 0508 1806 58.2 L   5.531  -0.538 8.60  BER  6 .30 3.2LBER                1
+ GAP=242   BER 0.720       5.2     2.2  7.1  0.3669E+01  0.6913E+01 -0.6266E+01E
+ 2013-05-08-1806-35S.NSN___018                                                 6
+ OLDACT:REG 21-09-15 19:37 OP:opt  STATUS:               ID:20130508180635     3
+ OLDACT:UP  21-09-15 19:38 OP:opt  STATUS:               ID:20130508180635     3
+ OLDACT:UP  21-12-03 13:18 OP:opt  STATUS:               ID:20130508180635     3
+ OLDACT:UP  21-12-12 11:17 OP:opt  STATUS:               ID:20130508180635     3
+ ACTION:UP  21-12-24 13:01 OP:opt  STATUS:               ID:20130508180635     I
+ OLDACT:UP  21-12-23 17:39 OP:opt  STATUS:               ID:20130508180635     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1807 02.330              BER    110.0 0.0210 23.5  74 
+ WEIJ HHN GH   ISg        1807 05.220              BER    110.0 0.0110 23.5  74 
+ WEIJ HHE GH    IAML      1807 06.370 2053.5  0.30 BER         -0.37   23.5  74 
+ KUKU HHZ GH   IP         1807 10.550              BER     96.0-0.1210 75.4  14 
+ KUKU HHN GH    IAML      1807 23.450 1017.5  0.12 BER         -0.04   75.4  14 
+ SHAI HHZ GH   IP         1807 11.300              BER     96.0-0.1410 80.2  56 
+ SHAI HHN GH    IAML      1807 23.470  865.5  0.20 BER         -0.07   80.2  56 
+ AKOS HHZ GH   IP         1807 16.220              BER     94.0 0.2210  108  38 
+ AKOS HHN GH    IAML      1807 17.900  857.5  0.10 BER          0.12    108  38 
+ MRON HHZ GH   IP         1807 22.230              BER     76.0 0.4510  143 316 
+ MRON HHN GH   ISg        1807 38.070              BER     93.0-0.2410  143 316 
+ MRON HHE GH    IAML      1807 42.630  436.5  0.14 BER          0.02    143 316 
+ KLEF HHZ GH   IP         1807 24.190              BER     76.0-0.4510  161  42 
+ KLEF HHN GH   ISg        1807 43.570              BER     93.0 0.2510  161  42 
+ KLEF HHE GH    IAML      1807 45.360  747.0  0.50 BER          0.35    161  42 
+                                                                                
+ 2013 0509 1209 51.2 L   6.565  -0.997 5.50  BER  3 .00 2.8LBER                1
+ GAP=223   BER 0.340      26.1     7.1117.2  0.1697E+03 -0.8120E+03 -0.2619E+04E
+ 2013-05-09-1208-00S.NSN___018                                                 6
+ OLDACT:REG 21-09-15 19:57 OP:opt  STATUS:               ID:20130509120759     3
+ OLDACT:UP  21-09-15 20:02 OP:opt  STATUS:               ID:20130509120759     3
+ OLDACT:UP  21-12-03 13:18 OP:opt  STATUS:               ID:20130509120759     3
+ OLDACT:UP  21-12-12 11:18 OP:opt  STATUS:               ID:20130509120759     3
+ ACTION:UP  21-12-24 13:01 OP:opt  STATUS:               ID:20130509120759     I
+ OLDACT:UP  21-12-23 17:39 OP:opt  STATUS:               ID:20130509120759     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ MRON HHZ GH   IP         1209 59.470              BER opt 96.0-0.0010 49.9 257 
+ MRON HHN GH   ISg        1210 05.260              BER opt 96.0-0.0110 49.9 257 
+ MRON HHE GH    IAML      1210 06.230  535.0  0.46 BER opt     -0.15   49.9 257 
+ KUKU HHZ GH   IP         1210 04.520      D       BER opt 93.0-0.0010 80.8 121 
+ KUKU HHE GH    IAML      1210 19.480  546.0  0.12 BER opt      0.15   80.8 121 
+ SHAI HHE GH   IP         1210 13.610              BER opt 92.0 0.0110  136 121 
+                                                                                
+ 2013 0515 1657 40.8 L   5.430  -0.551 11.9  BER  6 .10 3.3LBER                1
+ GAP=265   BER 0.450       3.9     1.4  3.7  0.1764E+01  0.2370E+01  0.3452E+01E
+ 2013-05-15-1657-31S.NSN___017                                                 6
+ OLDACT:REG 21-09-15 20:05 OP:opt  STATUS:               ID:20130515165731     3
+ OLDACT:UP  21-09-15 20:09 OP:opt  STATUS:               ID:20130515165731     3
+ OLDACT:UP  21-12-03 13:18 OP:opt  STATUS:               ID:20130515165731     3
+ OLDACT:UP  21-12-12 11:18 OP:opt  STATUS:               ID:20130515165731     3
+ ACTION:UP  21-12-24 13:01 OP:opt  STATUS:               ID:20130515165731     I
+ OLDACT:UP  21-12-23 17:39 OP:opt  STATUS:               ID:20130515165731     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1657 46.220              BER    112.0 0.0910 29.8  54 
+ WEIJ HHN GH   ISg        1657 49.830              BER    112.0-0.0010 29.8  54 
+ WEIJ HHN GH    IAML      1657 50.160 1823.0  0.18 BER         -0.36   29.8  54 
+ KUKU HHZ GH   IP         1657 54.910              BER     98.0-0.3010 86.7  13 
+ KUKU HHN GH    IAML      1658 10.640  506.5  0.18 BER opt     -0.32   86.7  13 
+ SHAI HHZ GH   IP         1657 55.460              BER opt 97.0 0.0210 88.1  50 
+ SHAI HHN GH    IAML      1658 07.600  840.0  0.22 BER opt     -0.09   88.1  50 
+ AKOS HHZ GH   IP         1658 00.450              BER     76.0 0.2010  118  36 
+ MRON HHN GH   IP         1658 05.510              BER opt 76.0 0.0610  151 319 
+ MRON HHN GH   ISg        1658 23.100              BER opt 94.0 0.0510  151 319 
+ KLEF HHZ GH   IP         1658 08.450              BER     76.0-0.2010  171  40 
+ KLEF HHN GH   ISg        1658 28.740              BER     94.0 0.0910  171  40 
+ KLEF HHE GH    IAML      1658 34.030 2007.0  0.14 BER          0.76    171  40 
+                                                                                
+ 2013 0516 1913 34.2 L   5.422  -0.541 13.7  BER  3 .00 3.0LBER                1
+ GAP=268   BER 0.310       4.0     2.2  3.3 -0.4632E+01  0.5053E+01 -0.4024E+01E
+ 2013-05-16-1911-59S.NSN___018_SEI                                             6
+ OLDACT:REG 21-08-27 22:23 OP:opt  STATUS:               ID:20130516191158     3
+ OLDACT:UP  21-08-28 14:07 OP:opt  STATUS:               ID:20130516191158     3
+ OLDACT:UP  21-08-28 14:07 OP:opt  STATUS:               ID:20130516191158     3
+ OLDACT:UP  21-12-03 13:18 OP:opt  STATUS:               ID:20130516191158     3
+ OLDACT:UP  21-12-12 11:18 OP:opt  STATUS:               ID:20130516191158     3
+ OLDACT:UP  21-12-23 17:40 OP:opt  STATUS:               ID:20130516191158     3
+ ACTION:UP  21-12-24 13:02 OP:opt  STATUS:               ID:20130516191158     I
+ OLDACT:UP  21-12-24 13:02 OP:opt  STATUS:               ID:20130516191158     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1913 39.550              BER opt115.0 0.0310 29.5  51 
+ WEIJ HHN GH   ISg        1913 43.250              BER opt115.0-0.0310 29.5  51 
+ WEIJ HHN GH    IAML      1913 43.920  699.0  0.18 BER opt     -0.50   29.5  51 
+ SHAI HHN GH    IAML      1914 05.950  375.0  0.20 BER opt     -0.17   87.8  50 
+ MRON HHZ GH   IP         1913 58.930              BER opt 76.0-0.0010  152 319 
+ MRON HHN GH    IAML      1913 59.530  158.0  0.80 BER opt     -0.17    152 319 
+ KLEF HHZ GH   IP         1914 01.890              BER opt 76.0-0.0210  171  39 
+ KLEF HHN GH   ISg        1914 22.030              BER opt 94.0 0.0210  171  39 
+ KLEF HHN GH    IAML      1914 23.720  616.0  0.12 BER opt      0.51    171  39 
+ KLEF HHE GH    IAML      1914 28.960  383.5  0.12 BER opt      0.31    171  39 
+                                                                                
+ 2013 0518 1816 50.3 L   5.529  -0.527 8.90  BER  6 .20 3.2LBER                1
+ GAP=243   BER 0.650       4.7     2.0  6.1  0.3034E+01  0.5324E+01 -0.4560E+01E
+ 2013-05-18-1814-54S.NSN___018                                                 6
+ OLDACT:REG 21-08-29 19:45 OP:opt  STATUS:               ID:20130518181454     3
+ OLDACT:UP  21-08-29 19:50 OP:opt  STATUS:               ID:20130518181454     3
+ OLDACT:UP  21-12-03 13:18 OP:opt  STATUS:               ID:20130518181454     3
+ OLDACT:UP  21-12-12 11:18 OP:opt  STATUS:               ID:20130518181454     3
+ ACTION:UP  21-12-24 13:02 OP:opt  STATUS:               ID:20130518181454     I
+ OLDACT:UP  21-12-23 17:40 OP:opt  STATUS:               ID:20130518181454     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1816 54.370              BER opt112.0 0.1010 22.5  73 
+ WEIJ HHE GH   ISg        1816 57.080              BER opt112.0 0.0210 22.5  73 
+ WEIJ HHN GH    IAML      1816 57.620 2862.5  0.28 BER opt     -0.25   22.5  73 
+ KUKU HHZ GH   IP         1817 02.580              BER opt 96.0-0.1810 75.4  13 
+ KUKU HHN GH    IAML      1817 15.850  570.0  0.16 BER opt     -0.30   75.4  13 
+ SHAI HHZ GH   EP         1817 03.370      C       BER opt 96.0-0.0410 79.4  55 
+ SHAI HHZ GH   IP         1817 03.370      C       BER opt 96.0-0.0410 79.4  55 
+ SHAI HHN GH    IAML      1817 21.710  781.0  0.20 BER opt     -0.13   79.4  55 
+ AKOS HHZ GH   IP         1817 07.890              BER opt 94.0-0.1310  108  38 
+ AKOS HHN GH    IAML      1817 10.140  755.0  0.10 BER opt      0.05    108  38 
+ MRON HHZ GH   IP         1817 14.460              BER opt 76.0 0.4510  144 316 
+ MRON HHE GH   ISg        1817 30.500              BER opt 93.0-0.1710  144 316 
+ MRON HHN GH    IAML      1817 34.950  496.5  0.70 BER opt      0.08    144 316 
+ KLEF HHZ GH   IP         1817 16.270              BER opt 76.0-0.3510  161  42 
+ KLEF HHN GH   ISg        1817 35.600              BER opt 93.0 0.3510  161  42 
+ KLEF HHN GH    IAML      1817 37.870 1204.0  0.12 BER opt      0.55    161  42 
+                                                                                
+ 2013 0524 1721 26.7 L   6.857  -1.529 14.1  BER  3 .10 3.2LBER                1
+ GAP=290   BER 0.380       5.8     3.0 13.6  0.5730E+01 -0.2387E+02 -0.7144E+02E
+ 2013-05-24-1721-20S.NSN___018_SEI                                             6
+ OLDACT:REG 21-09-15 20:11 OP:opt  STATUS:               ID:20130524172119     3
+ OLDACT:UP  21-09-15 20:14 OP:opt  STATUS:               ID:20130524172119     3
+ OLDACT:UP  21-12-03 13:19 OP:opt  STATUS:               ID:20130524172119     3
+ OLDACT:UP  21-12-12 11:18 OP:opt  STATUS:               ID:20130524172119     3
+ OLDACT:UP  21-12-23 17:40 OP:opt  STATUS:               ID:20130524172119     3
+ ACTION:UP  21-12-24 13:02 OP:opt  STATUS:               ID:20130524172119     I
+ OLDACT:UP  21-12-24 13:02 OP:opt  STATUS:               ID:20130524172119     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ MRON HHZ GH   IP         1721 34.470              BER opt100.0 0.1010 44.6 167 
+ MRON HHN GH   ISg        1721 39.660              BER opt100.0-0.1110 44.6 167 
+ MRON HHE GH    IAML      1721 42.090  476.5  0.10 BER opt     -0.69   44.6 167 
+ AKOS HHE GH    IAML      1722 21.640  379.0  0.20 BER opt      0.15    187 109 
+ WEIJ HHN GH    IAML      1722 26.660  353.5  0.20 BER opt      0.14    193 137 
+ SHAI HHZ GH   IP         1721 59.500      C       BER opt 76.0 0.1110  203 120 
+ SHAI HHE GH   ISg        1722 22.620              BER opt 90.0 0.0610  203 120 
+ KLEF HHZ GH   IP         1722 01.720              BER opt 76.0-0.1510  219  97 
+ KLEF HHN GH   ES         1722 26.500              BER opt 76.0-0.0110  219  97 
+ KLEF HHN GH    IAML      1722 29.570  498.5  0.56 BER opt      0.40    219  97 
+                                                                                
+ 2013 0525 0315 08.6 L   5.536  -0.296 3.90  BER  6 3.0 3.3LBER                1
+ GAP=267   BER  8.06      63.1    18.3148.9 -0.4878E+03 -0.1001E+04  0.7216E+04E
+ 2013-05-25-0313-34S.NSN___018                                                 6
+ OLDACT:REG 21-08-27 22:20 OP:opt  STATUS:               ID:20130525031333     3
+ OLDACT:UP  21-08-28 14:12 OP:opt  STATUS:               ID:20130525031333     3
+ OLDACT:UP  21-08-28 14:12 OP:opt  STATUS:               ID:20130525031333     3
+ OLDACT:UP  21-08-28 14:12 OP:opt  STATUS:               ID:20130525031333     3
+ OLDACT:UP  21-08-29 19:55 OP:opt  STATUS:               ID:20130525031333     3
+ OLDACT:UP  21-08-29 19:57 OP:opt  STATUS:               ID:20130525031333     3
+ OLDACT:UP  21-08-29 20:00 OP:opt  STATUS:               ID:20130525031333     3
+ OLDACT:UP  21-08-29 20:01 OP:opt  STATUS:               ID:20130525031333     3
+ OLDACT:UP  21-12-03 13:19 OP:opt  STATUS:               ID:20130525031333     3
+ OLDACT:UP  21-12-12 11:19 OP:opt  STATUS:               ID:20130525031333     3
+ ACTION:UP  21-12-24 13:02 OP:opt  STATUS:               ID:20130525031333     I
+ OLDACT:UP  21-12-23 17:40 OP:opt  STATUS:               ID:20130525031333     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         0315 09.400              BER opt119.0-0.5910 7.19 325 
+ WEIJ HHN GH   ISg        0315 10.600              BER opt119.0-0.3510 7.19 325 
+ WEIJ HHN GH    IAML      0315 10.68042355.5  0.12 BER opt      0.25   7.19 325 
+ SHAI HHZ GH   IP         0315 17.700              BER opt 93.0-0.7510 59.6  42 
+ SHAI HHN GH   ISg        0315 24.710              BER opt 93.0-0.6210 59.6  42 
+ SHAI HHN GH    IAML      0315 29.710 1164.5  0.16 BER opt     -0.26   59.6  42 
+ KUKU HHZ GH   IP         0315 19.650              BER opt 92.0-1.0210 73.1 354 
+ KUKU HHE GH   ISg        0315 28.260              BER opt 92.0-0.8410 73.1 354 
+ KUKU HHN GH   IP         0315 31.360              BER opt 92.0 10.710 73.1 354 
+ KUKU HHN GH    IAML      0315 33.740 1362.5  0.12 BER opt     -0.07   73.1 354 
+ AKOS HHZ GH   IP         0315 23.020              BER opt 92.0-0.9910 93.5  26 
+ AKOS HHE GH   ISg        0315 35.030              BER opt 92.0 0.2510 93.5  26 
+ AKOS HHN GH    IAML      0315 40.120  640.5  0.10 BER opt     -0.24   93.5  26 
+ KLEF HHZ GH   IP         0315 31.020              BER opt 91.0-1.3510  144  34 
+ KLEF HHE GH   ISg        0315 48.410              BER opt 91.0-0.5810  144  34 
+ KLEF HHN GH   ISg        0315 48.720              BER opt 91.0-0.2710  144  34 
+ KLEF HHN GH    IAML      0315 49.950 1222.0  0.10 BER opt      0.35    144  34 
+ MRON HHZ GH   IP         0315 34.120              BER opt 91.0-1.2610  163 309 
+ MRON HHN GH   ISg        0315 51.770              BER opt 91.0-2.3510  163 309 
+ MRON HHN GH    IAML      0315 54.780  391.0  0.22 BER opt     -0.05    163 309 
+                                                                                
+ 2013 0531 1756 31.1 L   5.429  -0.531 15.0  BER  5 .40 3.2LBER                1
+ GAP=268   BER  1.13       6.8     3.6 10.1  0.6245E+01  0.1889E+02  0.1399E+02E
+ 2013-05-31-1754-56S.NSN___018                                                 6
+ OLDACT:REG 21-09-15 20:16 OP:opt  STATUS:               ID:20130531175456     3
+ OLDACT:UP  21-09-15 20:21 OP:opt  STATUS:               ID:20130531175456     3
+ OLDACT:UP  21-12-03 13:19 OP:opt  STATUS:               ID:20130531175456     3
+ OLDACT:UP  21-12-12 11:19 OP:opt  STATUS:               ID:20130531175456     3
+ ACTION:UP  21-12-24 13:02 OP:opt  STATUS:               ID:20130531175456     I
+ OLDACT:UP  21-12-23 17:40 OP:opt  STATUS:               ID:20130531175456     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1756 36.630              BER    115.0 0.3110 28.1  51 
+ WEIJ HHN GH   ISg        1756 39.450              BER    115.0-0.5410 28.1  51 
+ WEIJ HHE GH    IAML      1756 40.630 2250.5  0.32 BER         -0.22   28.1  51 
+ KUKU HHZ GH   IP         1756 44.840              BER opt 92.0-0.5510 86.3  12 
+ KUKU HHN GH   ISg        1756 56.060              BER opt 92.0 0.6510 86.3  12 
+ KUKU HHN GH    IAML      1756 57.950  458.5  0.22 BER opt     -0.32   86.3  12 
+ SHAI HHZ GH   IP         1756 45.610              BER opt 92.0 0.2010 86.5  49 
+ SHAI HHN GH    IAML      1756 58.630  555.0  0.36 BER opt     -0.23   86.5  49 
+ MRON HHZ GH   IP         1756 56.340              BER opt 91.0 0.4810  152 319 
+ MRON HHE GH   ISg        1757 12.730              BER opt 91.0-0.4810  152 319 
+ MRON HHN GH    IAML      1757 16.850  480.0  0.36 BER opt      0.09    152 319 
+ KLEF HHZ GH   IP         1756 58.540              BER opt 76.0-0.0410  170  39 
+ KLEF HHN GH   ISg        1757 17.840              BER opt 90.0-0.0310  170  39 
+ KLEF HHE GH    IAML      1757 19.450 1448.0  0.16 BER opt      0.66    170  39 
+                                                                                
+ 2013 0607 1817 15.3 L   5.403  -0.536 15.0  BER  4 .70 3.4LBER                1
+ GAP=272   BER  1.70      11.5     5.6 18.3  0.1321E+02  0.5182E+02  0.6105E+02E
+ 2013-06-07-1815-41S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 20:26 OP:opt  STATUS:               ID:20130607181541     3
+ OLDACT:UP  21-09-15 20:28 OP:opt  STATUS:               ID:20130607181541     3
+ OLDACT:UP  21-12-03 13:19 OP:opt  STATUS:               ID:20130607181541     3
+ OLDACT:UP  21-12-03 13:20 OP:opt  STATUS:               ID:20130607181541     3
+ OLDACT:UP  21-12-12 11:19 OP:opt  STATUS:               ID:20130607181541     3
+ ACTION:UP  21-12-24 13:03 OP:opt  STATUS:               ID:20130607181541     I
+ OLDACT:UP  21-12-23 17:41 OP:opt  STATUS:               ID:20130607181541     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1817 21.350              BER opt113.0 0.4510 30.3  48 
+ WEIJ HHN GH   ISg        1817 24.150              BER opt113.0-0.6510 30.3  48 
+ WEIJ HHE GH    IAML      1817 25.310 1935.0  0.36 BER opt     -0.47   30.3  48 
+ KUKU HHZ GH   IP         1817 29.570              BER opt 92.0-0.5310 89.2  12 
+ KUKU HHN GH   ISg        1817 41.520              BER opt 92.0 1.0910 89.2  12 
+ KUKU HHE GH    IAML      1817 42.380 2935.5  0.12 BER opt      0.29   89.2  12 
+ MRON HHZ GH   IP         1817 41.140              BER opt 91.0 0.7410  154 320 
+ MRON HHN GH   ISg        1817 57.110              BER opt 91.0-0.8410  154 320 
+ MRON HHN GH    IAML      1818 02.240  433.5  0.10 BER opt     -0.16    154 320 
+ KLEF HHZ GH   IP         1817 43.250              BER opt 76.0 0.0310  172  39 
+ KLEF HHN GH   ISg        1818 02.520              BER opt 90.0-0.2810  172  39 
+ KLEF HHE GH    IAML      1818 04.280 1173.0  0.18 BER opt      0.36    172  39 
+                                                                                
+ 2013 0616 0751 34.2 L   5.437  -0.388 10.1  BER  3 .20 2.8LBER                1
+ GAP=345   BER 0.620      16.0    21.8 10.5 -0.3276E+03 -0.2040E+03  0.1498E+03E
+ 2013-06-16-0749-38S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 22:14 OP:opt  STATUS:               ID:20130616074937     3
+ OLDACT:UP  21-08-29 20:07 OP:opt  STATUS:               ID:20130616074937     3
+ OLDACT:UP  21-08-29 20:12 OP:opt  STATUS:               ID:20130616074937     3
+ OLDACT:UP  21-12-03 13:20 OP:opt  STATUS:               ID:20130616074937     3
+ OLDACT:UP  21-12-12 11:19 OP:opt  STATUS:               ID:20130616074937     3
+ ACTION:UP  21-12-24 13:03 OP:opt  STATUS:               ID:20130616074937     I
+ OLDACT:UP  21-12-23 17:41 OP:opt  STATUS:               ID:20130616074937     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         0751 37.800              BER opt120.0 0.2510 17.8  20 
+ WEIJ HHE GH   ISg        0751 39.630              BER opt120.0-0.2910 17.8  20 
+ WEIJ HHN GH    IAML      0751 40.050 2474.5  0.14 BER opt      0.02   17.8  20 
+ AKOS HHZ GH   IP         0751 52.090              BER opt 95.0 0.1310  108  28 
+ AKOS HHN GH    IAML      0751 53.890  239.0  0.12 BER opt     -0.03    108  28 
+ AKOS HHE GH   ISg        0752 04.600              BER opt 95.0 0.1910  108  28 
+ KLEF HHZ GH   IP         0751 59.910              BER opt 76.0-0.3110  159  35 
+ KLEF HHN GH   ISg        0752 18.760              BER opt 93.0 0.0410  159  35 
+                                                                                
+ 2013 0620 1715 15.5 L   5.600  -0.309 10.2  BER  4 .00 3.3LBER                1
+ GAP=208   BER 0.300       2.3     1.1  2.8 -0.7082E+00  0.5558E+00 -0.5545E+01E
+ 2013-06-20-1713-38S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 20:31 OP:opt  STATUS:               ID:20130620171337     3
+ OLDACT:UP  21-09-15 20:33 OP:opt  STATUS:               ID:20130620171337     3
+ OLDACT:UP  21-12-03 13:20 OP:opt  STATUS:               ID:20130620171337     3
+ OLDACT:UP  21-12-12 11:20 OP:opt  STATUS:               ID:20130620171337     3
+ ACTION:UP  21-12-24 13:03 OP:opt  STATUS:               ID:20130620171337     I
+ OLDACT:UP  21-12-23 17:41 OP:opt  STATUS:               ID:20130620171337     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1715 17.340              BER opt164.0 0.0410 3.02 244 
+ WEIJ HHN GH   ISg        1715 18.530              BER opt164.0-0.0210 3.02 244 
+ WEIJ HHE GH    IAML      1715 18.80012611.0  0.12 BER opt     -0.17   3.02 244 
+ KUKU HHZ GH   IP         1715 26.410              BER opt 99.0-0.0510 65.8 354 
+ KUKU HHE GH   ISg        1715 34.150              BER opt 99.0 0.0210 65.8 354 
+ KUKU HHE GH    IAML      1715 34.690 3747.5  0.12 BER opt      0.29   65.8 354 
+ KLEF HHN GH   ISg        1715 54.570              BER opt 94.0 0.0110  139  36 
+ KLEF HHE GH    IAML      1715 55.690 1179.5  0.22 BER opt      0.29    139  36 
+ MRON HHN GH   ISg        1715 59.530              BER opt 93.0 0.0110  157 307 
+ MRON HHE GH    IAML      1716 00.200  184.5  0.28 BER opt     -0.43    157 307 
+                                                                                
+ 2013 0625 1521 15.9 L   5.390  -0.580 7.60  BER  5 .50 3.5LBER                1
+ GAP=270   BER  1.39       8.9     4.3 18.4  0.6353E+01  0.3798E+02  0.5791E+02E
+ 2013-06-25-1519-36S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 22:13 OP:opt  STATUS:               ID:20130625151936     3
+ OLDACT:UP  21-08-28 14:16 OP:opt  STATUS:               ID:20130625151936     3
+ OLDACT:UP  21-08-28 14:16 OP:opt  STATUS:               ID:20130625151936     3
+ OLDACT:UP  21-08-29 20:15 OP:opt  STATUS:               ID:20130625151936     3
+ OLDACT:UP  21-12-03 13:20 OP:opt  STATUS:               ID:20130625151936     3
+ OLDACT:UP  21-12-12 11:20 OP:opt  STATUS:               ID:20130625151936     3
+ ACTION:UP  21-12-24 13:03 OP:opt  STATUS:               ID:20130625151936     I
+ OLDACT:UP  21-12-23 17:41 OP:opt  STATUS:               ID:20130625151936     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1521 21.930              BER opt102.0 0.1410 35.1  51 
+ WEIJ HHN GH   ISg        1521 25.660              BER opt102.0-0.2710 35.1  51 
+ WEIJ HHN GH    IAML      1521 25.970 2334.0  0.50 BER opt     -0.40   35.1  51 
+ KUKU HHZ GH   IP         1521 30.730              BER opt 94.0-0.2810 91.8  15 
+ KUKU HHN GH    IAML      1521 32.470  889.0  0.12 BER opt     -0.26   91.8  15 
+ KUKU HHE GH   ISg        1521 40.760              BER opt 94.0-0.8510 91.8  15 
+ AKOS HHZ GH   IP         1521 36.070              BER opt 93.0-0.1310  123  36 
+ AKOS HHN GH   ISg        1521 51.560              BER opt 93.0 1.1310  123  36 
+ AKOS HHN GH    IAML      1521 53.060 1436.5  0.10 BER opt      0.15    123  36 
+ MRON HHZ GH   IP         1521 41.320              BER opt 76.0 0.4310  152 321 
+ MRON HHN GH    IAML      1521 43.370  670.5  0.10 BER opt     -0.02    152 321 
+ MRON HHE GH   ISg        1521 58.470              BER opt 93.0 0.0710  152 321 
+ KLEF HHZ GH   IP         1521 44.220              BER opt 76.0-0.5210  176  40 
+ KLEF HHE GH   ISg        1522 05.430              BER opt 92.0 0.2810  176  40 
+ KLEF HHN GH    IAML      1522 06.070 1930.0  0.28 BER opt      0.55    176  40 
+                                                                                
+ 2013 0710 1835 37.9 L   5.410  -0.536 15.0  BER  5 .50 3.1LBER                1
+ GAP=271   BER  1.39       9.2     4.6 14.8  0.9595E+01  0.3446E+02  0.3973E+02E
+ 2013-07-10-1835-18S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 20:35 OP:opt  STATUS:               ID:20130710183518     3
+ OLDACT:UP  21-09-15 20:37 OP:opt  STATUS:               ID:20130710183518     3
+ OLDACT:UP  21-12-03 13:21 OP:opt  STATUS:               ID:20130710183518     3
+ OLDACT:UP  21-12-03 13:22 OP:opt  STATUS:               ID:20130710183518     3
+ OLDACT:UP  21-12-12 11:20 OP:opt  STATUS:               ID:20130710183518     3
+ ACTION:UP  21-12-24 13:03 OP:opt  STATUS:               ID:20130710183518     I
+ OLDACT:UP  21-12-23 17:42 OP:opt  STATUS:               ID:20130710183518     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1835 43.740              BER opt113.0 0.3810 29.9  49 
+ WEIJ HHN GH   ISg        1835 46.530              BER opt113.0-0.6810 29.9  49 
+ WEIJ HHE GH    IAML      1835 47.790 2251.5  0.34 BER opt     -0.09   29.9  49 
+ KUKU HHZ GH   IP         1835 51.850              BER opt 92.0-0.6710 88.5  12 
+ KUKU HHN GH   ISg        1836 03.570              BER opt 92.0 0.7910 88.5  12 
+ KUKU HHN GH    IAML      1836 04.760  474.0  0.20 BER opt     -0.19   88.5  12 
+ AKOS HHZ GH   IP         1835 57.540              BER opt 91.0 0.2010  119  34 
+ AKOS HHN GH    IAML      1836 07.570  505.0  0.10 BER opt      0.04    119  34 
+ MRON HHZ GH   IP         1836 03.480              BER opt 91.0 0.6310  154 319 
+ MRON HHN GH   ISg        1836 19.710              BER opt 91.0-0.6310  154 319 
+ MRON HHE GH    IAML      1836 23.990  187.0  0.22 BER opt     -0.21    154 319 
+ KLEF HHZ GH   IP         1836 05.640              BER opt 76.0-0.0310  172  39 
+ KLEF HHN GH   ISg        1836 25.200              BER opt 90.0 0.0110  172  39 
+ KLEF HHE GH    IAML      1836 27.150  705.5  0.16 BER opt      0.46    172  39 
+                                                                                
+ 2013 0725 1447 04.8 L   5.449  -0.554 13.1  BER  3 .10 3.2LBER                1
+ GAP=261   BER 0.430       3.7     1.4  3.6  0.1308E+01  0.2571E+01  0.1149E+01E
+ 2013-07-25-1445-19S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 20:38 OP:opt  STATUS:               ID:20130725144518     3
+ OLDACT:UP  21-09-15 20:40 OP:opt  STATUS:               ID:20130725144518     3
+ OLDACT:UP  21-12-03 13:23 OP:opt  STATUS:               ID:20130725144518     3
+ OLDACT:UP  21-12-12 11:20 OP:opt  STATUS:               ID:20130725144518     3
+ ACTION:UP  21-12-24 13:04 OP:opt  STATUS:               ID:20130725144518     I
+ OLDACT:UP  21-12-23 17:42 OP:opt  STATUS:               ID:20130725144518     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1447 09.970              BER opt114.0-0.0210 28.9  58 
+ WEIJ HHN GH   ISg        1447 13.670              BER opt114.0 0.0210 28.9  58 
+ WEIJ HHE GH    IAML      1447 15.800 1475.0  0.24 BER opt     -0.40   28.9  58 
+ MRON HHZ GH   IP         1447 29.250              BER opt 76.0 0.2010  149 319 
+ MRON HHE GH   ISg        1447 46.410              BER opt 95.0-0.1110  149 319 
+ MRON HHN GH    IAML      1447 47.560  306.0  0.16 BER opt     -0.12    149 319 
+ KLEF HHZ GH   IP         1447 32.120              BER opt 76.0-0.1910  169  40 
+ KLEF HHN GH   ISg        1447 52.310              BER opt 94.0 0.1010  169  40 
+ KLEF HHE GH    IAML      1447 54.520 1090.0  0.22 BER opt      0.53    169  40 
+                                                                                
+ 2013 0729 2015 02.3 L   5.495  -0.325 17.9  BER  5 .30 3.5LBER                1
+ GAP=277   BER 0.700       5.0     1.9  3.2 -0.2680E+01  0.1696E+00 -0.6307E+01E
+ 2013-07-29-2013-30S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 22:05 OP:opt  STATUS:               ID:20130729201329     3
+ OLDACT:UP  21-08-28 14:27 OP:opt  STATUS:               ID:20130729201329     3
+ OLDACT:UP  21-08-29 20:45 OP:opt  STATUS:               ID:20130729201329     3
+ OLDACT:UP  21-08-29 20:50 OP:opt  STATUS:               ID:20130729201329     3
+ OLDACT:UP  21-08-29 20:51 OP:opt  STATUS:               ID:20130729201329     3
+ OLDACT:UP  21-08-29 20:51 OP:opt  STATUS:               ID:20130729201329     3
+ OLDACT:UP  21-12-03 13:23 OP:opt  STATUS:               ID:20130729201329     3
+ OLDACT:UP  21-12-12 11:20 OP:opt  STATUS:               ID:20130729201329     3
+ ACTION:UP  21-12-24 13:04 OP:opt  STATUS:               ID:20130729201329     I
+ OLDACT:UP  21-12-23 17:42 OP:opt  STATUS:               ID:20130729201329     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         2015 05.960              BER opt149.0 0.2610 10.4 355 
+ WEIJ HHN GH   ISg        2015 07.850              BER opt149.0-0.2410 10.4 355 
+ WEIJ HHE GH    IAML      2015 08.670 3868.5  0.20 BER opt     -0.54   10.4 355 
+ KUKU HHZ GH   IP         2015 15.580              BER opt 98.0 0.3710 77.3 356 
+ KUKU HHN GH    IAML      2015 15.650  737.0  0.20 BER opt     -0.50   77.3 356 
+ AKOS HHZ GH   IP         2015 18.640              BER opt 95.0 0.0110 99.0  26 
+ AKOS HHE GH   ISg        2015 30.200              BER opt 95.0 0.1310 99.0  26 
+ AKOS HHN GH   ISg        2015 30.380              BER opt 95.0 0.3110 99.0  26 
+ AKOS HHN GH    IAML      2015 30.530 1805.5  0.10 BER opt      0.04   99.0  26 
+ KLEF HHZ GH   IP         2015 26.410              BER opt 76.0-0.2610  150  34 
+ KLEF HHN GH   ISg        2015 43.440              BER opt 92.0-0.4010  150  34 
+ KLEF HHN GH    IAML      2015 45.410 3708.5  0.14 BER opt      0.64    150  34 
+ MRON HHE GH   ISg        2015 47.230              BER opt 92.0-0.1810  163 311 
+ MRON HHT GH   ISg        2015 47.420              BER opt 92.0 0.0110  163 311 
+ MRON HHN GH    IAML      2015 48.440 1731.5  0.14 BER opt      0.38    163 311 
+                                                                                
+ 2013 0802 2035 17.5 L   5.528  -0.299 14.4  BER  3 .20 3.0LBER                1
+ GAP=296   BER 0.590       4.6     4.0  4.1  0.1710E+01 -0.9222E+01 -0.1083E+02E
+ 2013-08-02-2033-41S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 20:51 OP:opt  STATUS:               ID:20130802203340     3
+ OLDACT:UP  21-09-15 20:54 OP:opt  STATUS:               ID:20130802203340     3
+ OLDACT:UP  21-12-03 13:24 OP:opt  STATUS:               ID:20130802203340     3
+ OLDACT:UP  21-12-12 11:21 OP:opt  STATUS:               ID:20130802203340     3
+ ACTION:UP  21-12-24 13:04 OP:opt  STATUS:               ID:20130802203340     I
+ OLDACT:UP  21-12-23 17:42 OP:opt  STATUS:               ID:20130802203340     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         2035 20.400              BER opt151.0 0.1810 7.71 330 
+ WEIJ HHN GH   ISg        2035 22.010              BER opt151.0-0.1110 7.71 330 
+ WEIJ HHE GH    IAML      2035 22.240 2424.0  0.18 BER opt     -0.34   7.71 330 
+ KUKU HHZ GH   IP         2035 30.000              BER opt 91.0 0.1710 73.8 354 
+ KUKU HHE GH   ISg        2035 38.360              BER opt 91.0-0.1010 73.8 354 
+ KUKU HHE GH    IAML      2035 39.280 1141.5  0.12 BER opt      0.18   73.8 354 
+ KLEF HHZ GH   IP         2035 40.820              BER opt 90.0-0.3610  145  34 
+ KLEF HHE GH   ISg        2035 57.960              BER opt 90.0 0.2110  145  34 
+ KLEF HHN GH    IAML      2036 00.240  368.5  0.10 BER opt      0.14    145  34 
+                                                                                
+ 2013 0804 1713 13.8 L   7.103  -0.293 21.0  BER  5 .20 3.6LBER                1
+ GAP=243   BER 0.640       3.7     2.0 15.1 -0.1614E+01  0.1641E+02 -0.3133E+02E
+ 2013-08-04-1711-37S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 22:04 OP:opt  STATUS:               ID:20130804171137     3
+ OLDACT:UP  21-08-28 14:30 OP:opt  STATUS:               ID:20130804171137     3
+ OLDACT:UP  21-08-28 14:30 OP:opt  STATUS:               ID:20130804171137     3
+ OLDACT:UP  21-08-29 20:52 OP:opt  STATUS:               ID:20130804171137     3
+ OLDACT:UP  21-08-29 20:56 OP:opt  STATUS:               ID:20130804171137     3
+ OLDACT:UP  21-12-03 13:24 OP:opt  STATUS:               ID:20130804171137     3
+ OLDACT:UP  21-12-12 11:21 OP:opt  STATUS:               ID:20130804171137     3
+ ACTION:UP  21-12-24 13:04 OP:opt  STATUS:               ID:20130804171137     I
+ OLDACT:UP  21-12-23 17:43 OP:opt  STATUS:               ID:20130804171137     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ KLEF HHZ GH   IP         1713 30.170              BER opt 98.0 0.2410 97.4 124 
+ KLEF HHN GH   ISg        1713 40.810              BER opt 98.0-0.4410 97.4 124 
+ KLEF HHE GH    IAML      1713 47.520 1568.0  0.20 BER opt     -0.10   97.4 124 
+ AKOS HHZ GH   IP         1713 30.200              BER opt 98.0 0.2610 97.5 156 
+ AKOS HHN GH   ISg        1713 41.500              BER opt 98.0 0.2510 97.5 156 
+ AKOS HHN GH    IAML      1713 42.310 2162.0  0.10 BER opt      0.04   97.5 156 
+ KUKU HHN GH   IP         1713 30.480              BER opt 76.0-0.0110  101 185 
+ KUKU HHE GH   ISg        1713 41.920              BER opt 98.0-0.2710  101 185 
+ KUKU HHN GH    IAML      1713 48.450 2358.5  0.12 BER opt      0.10    101 185 
+ MRON HHZ GH   IP         1713 37.110              BER opt 76.0-0.1310  145 241 
+ MRON HHE GH   ISg        1713 53.980              BER opt 94.0 0.0110  145 241 
+ MRON HHN GH    IAML      1713 55.620 1525.0  0.10 BER opt      0.16    145 241 
+ WEIJ HHE GH   ISg        1714 00.140              BER opt 93.0 0.0810  168 182 
+ WEIJ HHN GH    IAML      1714 02.340  494.0  0.44 BER opt     -0.21    168 182 
+                                                                                
+ 2013 0817 1211 06.8 L   7.010  -0.713 15.0  BER  3 3.4 2.7LBER                1
+ GAP=236   BER  8.03     120.4    40.7295.9 -0.1340E+04  0.8639E+04 -0.4724E+04E
+ 2013-08-17-1209-21S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 20:55 OP:opt  STATUS:               ID:20130817120920     3
+ OLDACT:UP  21-09-16 23:46 OP:opt  STATUS:               ID:20130817120920     3
+ OLDACT:UP  21-12-03 13:24 OP:opt  STATUS:               ID:20130817120920     3
+ OLDACT:UP  21-12-12 11:21 OP:opt  STATUS:               ID:20130817120920     3
+ ACTION:UP  21-12-24 13:04 OP:opt  STATUS:               ID:20130817120920     I
+ OLDACT:UP  21-12-23 17:43 OP:opt  STATUS:               ID:20130817120920     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ KUKU HHE GH   IP         1211 25.630              BER opt 91.0 2.6910 98.1 157 
+ MRON HHZ GH   IP         1211 20.850              BER opt 91.0-2.4410  100 233 
+ KLEF HHE GH   IP         1211 32.690              BER opt 91.0 3.9210  135 109 
+ KLEF HHZ GH   ISg        1211 40.010              BER opt 91.0-4.1710  135 109 
+ KLEF HHE GH    IAML      1211 41.250  143.0  1.12 BER opt      0.00    135 109 
+                                                                                
+ 2013 0823 1257 28.7 L   5.431  -0.568 7.90  BER  5 .30 3.2LBER                1
+ GAP=264   BER 0.860       6.4     2.6 10.0  0.1701E+01  0.1486E+02  0.1619E+02E
+ 2013-08-23-1255-54S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 22:02 OP:opt  STATUS:               ID:20130823125553     3
+ OLDACT:UP  21-08-28 14:32 OP:opt  STATUS:               ID:20130823125553     3
+ OLDACT:UP  21-08-28 14:32 OP:opt  STATUS:               ID:20130823125553     3
+ OLDACT:UP  21-08-29 21:05 OP:opt  STATUS:               ID:20130823125553     3
+ OLDACT:UP  21-12-03 13:24 OP:opt  STATUS:               ID:20130823125553     3
+ OLDACT:UP  21-12-12 11:21 OP:opt  STATUS:               ID:20130823125553     3
+ ACTION:UP  21-12-24 13:04 OP:opt  STATUS:               ID:20130823125553     I
+ OLDACT:UP  21-12-23 17:43 OP:opt  STATUS:               ID:20130823125553     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1257 34.050              BER opt104.0-0.0210 31.3  56 
+ WEIJ HHN GH   ISg        1257 37.780              BER opt104.0-0.0110 31.3  56 
+ WEIJ HHN GH    IAML      1257 38.340 1658.5  0.14 BER opt     -0.38   31.3  56 
+ KUKU HHN GH   IP         1257 42.990              BER opt 95.0-0.1310 87.0  15 
+ KUKU HHN GH    IAML      1257 44.840 1071.5  0.18 BER opt      0.01   87.0  15 
+ AKOS HHZ GH   IP         1257 48.400              BER opt 93.0 0.0610  119  36 
+ AKOS HHN GH   ISg        1258 02.740              BER opt 93.0 0.6810  119  36 
+ AKOS HHN GH    IAML      1258 05.740  742.5  0.18 BER opt      0.06    119  36 
+ MRON HHZ GH   IP         1257 53.590              BER opt 76.0 0.2610  149 320 
+ MRON HHZ GH   EP         1257 53.590              BER opt 76.0 0.2610  149 320 
+ MRON HHN GH   ISg        1258 10.220              BER opt 93.0-0.3310  149 320 
+ MRON HHE GH    IAML      1258 14.720  306.5  0.10 BER opt     -0.16    149 320 
+ KLEF HHZ GH   IP         1257 56.550              BER opt 76.0-0.3610  172  40 
+ KLEF HHN GH   ISg        1258 16.420              BER opt 92.0-0.4010  172  40 
+ KLEF HHN GH    IAML      1258 20.870 1009.0  0.14 BER opt      0.47    172  40 
+                                                                                
+ 2013 0824 1925 10.4 L   5.527  -0.300 14.3  BER  4 .20 3.1LBER                1
+ GAP=275   BER 0.470       3.2     1.6  2.3 -0.1230E+01  0.3651E-01 -0.3569E+01E
+ 2013-08-24-1923-55S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 21:45 OP:opt  STATUS:               ID:20130824192355     3
+ OLDACT:UP  21-08-28 14:38 OP:opt  STATUS:               ID:20130824192355     3
+ OLDACT:UP  21-08-29 21:09 OP:opt  STATUS:               ID:20130824192355     3
+ OLDACT:UP  21-08-29 21:09 OP:opt  STATUS:               ID:20130824192355     3
+ OLDACT:UP  21-12-03 13:24 OP:opt  STATUS:               ID:20130824192355     3
+ OLDACT:UP  21-12-12 11:21 OP:opt  STATUS:               ID:20130824192355     3
+ ACTION:UP  21-12-24 13:05 OP:opt  STATUS:               ID:20130824192355     I
+ OLDACT:UP  21-12-23 17:43 OP:opt  STATUS:               ID:20130824192355     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1925 13.300              BER opt151.0 0.1610 7.72 332 
+ WEIJ HHN GH   ISg        1925 14.930              BER opt151.0-0.1010 7.72 332 
+ WEIJ HHN GH    IAML      1925 15.460 5962.0  0.24 BER opt     -0.04   7.72 332 
+ KUKU HHZ GH   IP         1925 22.920              BER opt 91.0 0.1410 74.0 354 
+ KUKU HHE GH   ISg        1925 31.410              BER opt 91.0-0.0110 74.0 354 
+ KUKU HHN GH    IAML      1925 36.060  671.0  0.12 BER opt     -0.14   74.0 354 
+ AKOS HHN GH    IAML      1925 28.010  395.0  0.18 BER opt     -0.21   94.5  26 
+ KLEF HHZ GH   IP         1925 33.830              BER opt 90.0-0.3210  146  34 
+ KLEF HHN GH   ISg        1925 50.880              BER opt 90.0 0.1410  146  34 
+ KLEF HHN GH    IAML      1925 53.420  870.0  0.12 BER opt      0.43    146  34 
+ MRON HHZ GH   IP         1925 37.000      D       BER opt 90.0 0.0710  163 310 
+ MRON HHN GH   ISg        1925 55.390      D       BER opt 90.0-0.0910  163 310 
+ MRON HHE GH    IAML      1925 56.810  248.5  0.14 BER opt     -0.03    163 310 
+                                                                                
+ 2013 0831 1232 09.5 L   5.393  -0.551 15.0  BER  5 .20 3.6LBER                1
+ GAP=272   BER 0.680       4.3     1.9  5.1 -0.6294E+00  0.3729E+01  0.1164E+01E
+ 2013-08-31-1230-35S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 21:43 OP:opt  STATUS:               ID:20130831123034     3
+ OLDACT:UP  21-08-28 14:40 OP:opt  STATUS:               ID:20130831123034     3
+ OLDACT:UP  21-08-28 14:40 OP:opt  STATUS:               ID:20130831123034     3
+ OLDACT:UP  21-08-28 14:41 OP:opt  STATUS:               ID:20130831123034     3
+ OLDACT:UP  21-08-28 14:41 OP:opt  STATUS:               ID:20130831123034     3
+ OLDACT:UP  21-08-29 21:12 OP:opt  STATUS:               ID:20130831123034     3
+ OLDACT:UP  21-08-29 21:13 OP:opt  STATUS:               ID:20130831123034     3
+ OLDACT:UP  21-12-03 13:24 OP:opt  STATUS:               ID:20130831123034     3
+ OLDACT:UP  21-12-12 11:22 OP:opt  STATUS:               ID:20130831123034     3
+ ACTION:UP  21-12-24 13:05 OP:opt  STATUS:               ID:20130831123034     I
+ OLDACT:UP  21-12-23 17:44 OP:opt  STATUS:               ID:20130831123034     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1232 15.500              BER opt111.0 0.1210 32.4  48 
+ WEIJ HHN GH   ISg        1232 19.040              BER opt111.0-0.4510 32.4  48 
+ WEIJ HHN GH    IAML      1232 19.460 4395.5  0.18 BER opt     -0.23   32.4  48 
+ WEIJ HHE GH    IAML      1232 19.530 3235.0  0.16 BER opt     -0.36   32.4  48 
+ KUKU HHZ GH   IP         1232 24.220              BER opt 92.0-0.2910 90.6  13 
+ AKOS HHZ GH   IP         1232 29.560              BER opt 91.0 0.1810  121  34 
+ AKOS HHE GH    IAML      1232 30.990 1132.0  0.10 BER opt     -0.06    121  34 
+ AKOS HHN GH   ISg        1232 43.770              BER opt 91.0 0.4810  121  34 
+ AKOS HHN GH    IAML      1232 51.950 1547.5  0.10 BER opt      0.08    121  34 
+ MRON HHZ GH   IP         1232 34.700              BER opt 91.0 0.1510  154 320 
+ MRON HHN GH   ISg        1232 51.950              BER opt 91.0-0.1210  154 320 
+ MRON HHN GH    IAML      1232 56.210  821.0  0.10 BER opt     -0.02    154 320 
+ KLEF HHZ GH   IP         1232 37.710              BER opt 76.0 0.0110  174  39 
+ KLEF HHT GH   ISg        1232 57.330              BER opt 90.0-0.1810  174  39 
+ KLEF HHE GH   ISg        1232 57.550              BER opt 90.0 0.0410  174  39 
+ KLEF HHN GH   ISg        1232 57.580              BER opt 90.0 0.0710  174  39 
+ KLEF HHN GH    IAML      1232 59.560 2743.0  0.14 BER opt      0.60    174  39 
+                                                                                
+ 2013 0918 1235 46.5 L   5.317  -0.511 14.3  BER  5 .50 3.6LBER                1
+ GAP=285   BER  1.24       8.9     6.5 11.6 -0.2471E+02  0.2579E+02  0.1195E+02E
+ 2013-09-18-1234-08S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 21:42 OP:opt  STATUS:               ID:20130918123407     3
+ OLDACT:UP  21-08-28 14:44 OP:opt  STATUS:               ID:20130918123407     3
+ OLDACT:UP  21-08-28 14:44 OP:opt  STATUS:               ID:20130918123407     3
+ OLDACT:UP  21-08-29 21:14 OP:opt  STATUS:               ID:20130918123407     3
+ OLDACT:UP  21-08-29 21:14 OP:opt  STATUS:               ID:20130918123407     3
+ OLDACT:UP  21-08-29 21:15 OP:opt  STATUS:               ID:20130918123407     3
+ OLDACT:UP  21-08-29 21:17 OP:opt  STATUS:               ID:20130918123407     3
+ OLDACT:UP  21-12-03 13:25 OP:opt  STATUS:               ID:20130918123407     3
+ OLDACT:UP  21-12-12 11:22 OP:opt  STATUS:               ID:20130918123407     3
+ ACTION:UP  21-12-24 13:05 OP:opt  STATUS:               ID:20130918123407     I
+ OLDACT:UP  21-12-23 17:44 OP:opt  STATUS:               ID:20130918123407     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1235 53.390              BER opt107.0 0.5110 35.9  33 
+ WEIJ HHN GH   ISg        1235 57.140              BER opt107.0-0.1910 35.9  33 
+ WEIJ HHN GH    IAML      1235 57.530 3674.5  0.22 BER opt     -0.31   35.9  33 
+ KUKU HHZ GH   IP         1236 02.100              BER opt 90.0-0.6010 98.1   9 
+ KUKU HHN GH    IAML      1236 02.820 1433.0  0.18 BER opt     -0.15   98.1   9 
+ KUKU HHZ GH   ISg        1236 14.760              BER opt 90.0 0.7410 98.1   9 
+ AKOS HHZ GH   IP         1236 07.610              BER opt 90.0 0.4710  126  31 
+ AKOS HHN GH   ISg        1236 21.650              BER opt 90.0 0.0910  126  31 
+ AKOS HHE GH    IAML      1236 28.530 1085.0  0.24 BER opt     -0.10    126  31 
+ MRON HHZ GH   IP         1236 12.660              BER opt 90.0-0.3810  163 321 
+ MRON HHN GH    IAML      1236 34.170  720.5  0.28 BER opt     -0.09    163 321 
+ KLEF HHZ GH   IP         1236 15.620              BER opt 76.0 0.2810  178  36 
+ KLEF HHE GH   ISg        1236 34.900              BER opt 90.0-0.6810  178  36 
+ KLEF HHN GH   ISg        1236 35.350              BER opt 90.0-0.2310  178  36 
+ KLEF HHN GH    IAML      1236 39.150 3136.5  0.14 BER opt      0.62    178  36 
+                                                                                
+ 2013 0919 1230 53.1 L   6.420  -1.018 12.8  BER  4 .00 3.1LBER                1
+ GAP=166   BER 0.340       3.1     1.7  5.7  0.1105E+01 -0.5710E+01  0.2590E+01E
+ 2013-09-19-1229-20S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 21:06 OP:opt  STATUS:               ID:20130919122920     3
+ OLDACT:UP  21-09-15 21:10 OP:opt  STATUS:               ID:20130919122920     3
+ OLDACT:UP  21-12-03 13:25 OP:opt  STATUS:               ID:20130919122920     3
+ OLDACT:UP  21-12-12 11:22 OP:opt  STATUS:               ID:20130919122920     3
+ ACTION:UP  21-12-24 13:05 OP:opt  STATUS:               ID:20130919122920     I
+ OLDACT:UP  21-12-23 17:44 OP:opt  STATUS:               ID:20130919122920     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ MRON HHZ GH   IP         1231 01.090              BER opt105.0 0.0010 46.7 276 
+ MRON HHN GH    IAML      1231 07.770 1024.5  0.12 BER opt     -0.19   46.7 276 
+ KUKU HHZ GH   IP         1231 05.800              BER opt 99.0-0.0010 76.1 109 
+ KUKU HHN GH    IAML      1231 19.100  831.0  0.12 BER opt     -0.00   76.1 109 
+ WEIJ HHZ GH   IP         1231 12.680              BER opt 76.0 0.0010  119 140 
+ KLEF HHZ GH   IP         1231 19.600              BER opt 76.0-0.0010  163  82 
+ KLEF HHN GH    IAML      1231 44.000  388.5  0.10 BER opt      0.20    163  82 
+                                                                                
+ 2013 0922 1207 35.5 L   5.461  -0.571 10.1  BER  3 .20 3.0LBER                1
+ GAP=314   BER 0.590       4.0     4.6  7.3  0.4335E+01  0.1770E+02  0.9633E+00E
+ 2013-09-22-1206-07S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 21:12 OP:opt  STATUS:               ID:20130922120606     3
+ OLDACT:UP  21-09-15 21:16 OP:opt  STATUS:               ID:20130922120606     3
+ OLDACT:UP  21-12-03 13:25 OP:opt  STATUS:               ID:20130922120606     3
+ OLDACT:UP  21-12-12 11:30 OP:opt  STATUS:               ID:20130922120606     3
+ ACTION:UP  21-12-24 13:05 OP:opt  STATUS:               ID:20130922120606     I
+ OLDACT:UP  21-12-23 17:44 OP:opt  STATUS:               ID:20130922120606     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHN GH   IP         1207 40.780              BER opt109.0 0.0810 29.8  62 
+ WEIJ HHN GH   ISg        1207 44.170              BER opt109.0-0.1710 29.8  62 
+ WEIJ HHN GH    IAML      1207 44.720  786.5  0.22 BER opt     -0.49   29.8  62 
+ KUKU HHN GH   IP         1207 49.600              BER opt 97.0 0.2010 83.8  15 
+ KUKU HHE GH   ISg        1207 58.910              BER opt 97.0-0.2110 83.8  15 
+ KUKU HHE GH    IAML      1208 05.270 1293.0  0.12 BER opt      0.30   83.8  15 
+ KLEF HHZ GH   IP         1208 03.000              BER opt 76.0-0.2110  170  41 
+ KLEF HHZ GH   ISg        1208 23.270              BER opt 93.0 0.3110  170  41 
+ KLEF HHN GH    IAML      1208 26.620  320.5  0.12 BER opt      0.19    170  41 
+                                                                                
+ 2013 1001 1809 08.4 L   5.405  -0.529 15.0  BER  5 .60 3.3LBER                1
+ GAP=273   BER  1.48       9.1     4.6 16.4  0.4521E+01  0.3551E+02  0.4046E+02E
+ 2013-10-01-1807-14S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 21:40 OP:opt  STATUS:               ID:20131001180714     3
+ OLDACT:UP  21-08-28 14:51 OP:opt  STATUS:               ID:20131001180714     3
+ OLDACT:UP  21-08-28 14:51 OP:opt  STATUS:               ID:20131001180714     3
+ OLDACT:UP  21-08-28 14:51 OP:opt  STATUS:               ID:20131001180714     3
+ OLDACT:UP  21-08-29 21:18 OP:opt  STATUS:               ID:20131001180714     3
+ OLDACT:UP  21-12-03 13:26 OP:opt  STATUS:               ID:20131001180714     3
+ OLDACT:UP  21-12-12 11:31 OP:opt  STATUS:               ID:20131001180714     3
+ ACTION:UP  21-12-24 13:05 OP:opt  STATUS:               ID:20131001180714     I
+ OLDACT:UP  21-12-23 17:45 OP:opt  STATUS:               ID:20131001180714     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1809 14.250              BER opt113.0 0.4010 29.7  47 
+ WEIJ HHN GH   ISg        1809 17.000              BER opt113.0-0.6810 29.7  47 
+ WEIJ HHN GH    IAML      1809 17.450 2702.5  0.22 BER opt     -0.26   29.7  47 
+ KUKU HHZ GH   IP         1809 22.390              BER opt 92.0-0.7110 88.9  11 
+ KUKU HHN GH    IAML      1809 23.440  836.0  0.10 BER opt     -0.18   88.9  11 
+ KUKU HHN GH   ISg        1809 34.220              BER opt 92.0 0.8210 88.9  11 
+ AKOS HHZ GH   IP         1809 27.840              BER opt 91.0-0.0210  119  34 
+ AKOS HHN GH   ISg        1809 41.680              BER opt 91.0 0.1910  119  34 
+ AKOS HHN GH    IAML      1809 49.570  771.0  0.10 BER opt     -0.02    119  34 
+ MRON HHN GH   IP         1809 34.360              BER opt 91.0 0.8510  154 319 
+ MRON HHN GH   ISg        1809 50.350              BER opt 91.0-0.7610  154 319 
+ KLEF HHZ GH   IP         1809 36.160              BER opt 76.0-0.0210  171  39 
+ KLEF HHN GH   ISg        1809 55.610              BER opt 90.0-0.0810  171  39 
+ KLEF HHN GH    IAML      1809 59.160 1181.0  0.56 BER opt      0.44    171  39 
+                                                                                
+ 2013 1013 1321 34.5 L   5.486  -0.354 10.9  BER  5 .30 4.0LBER                1
+ GAP=277   BER 0.770       4.7     2.4  3.8 -0.2745E+01  0.6972E+00  0.3008E+01E
+ 2013-10-13-1319-37S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 21:37 OP:opt  STATUS:               ID:20131013131937     3
+ OLDACT:UP  21-08-28 14:55 OP:opt  STATUS:               ID:20131013131937     3
+ OLDACT:UP  21-12-03 13:26 OP:opt  STATUS:               ID:20131013131937     3
+ OLDACT:UP  21-12-12 11:31 OP:opt  STATUS:               ID:20131013131937     3
+ ACTION:UP  21-12-24 13:06 OP:opt  STATUS:               ID:20131013131937     I
+ OLDACT:UP  21-12-23 17:45 OP:opt  STATUS:               ID:20131013131937     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1321 37.100              BER opt134.0 0.0110 11.5  11 
+ WEIJ HHE GH   ISg        1321 38.750              BER opt134.0-0.1810 11.5  11 
+ WEIJ HHN GH    IAML      1321 39.19040370.0  0.26 BER opt     -0.12   11.5  11 
+ KUKU HHZ GH   IP         1321 47.470              BER opt 98.0 0.0410 78.1 359 
+ KUKU HHE GH   ISg        1321 56.600              BER opt 98.0 0.1010 78.1 359 
+ KUKU HHN GH    IAML      1322 00.540 3706.0  0.16 BER opt     -0.27   78.1 359 
+ AKOS HHZ GH   IP         1321 51.920              BER opt 96.0 0.7310  101  27 
+ AKOS HHN GH   ISg        1322 02.960              BER opt 96.0 0.0610  101  27 
+ AKOS HHN GH    IAML      1322 08.450 1955.0  0.12 BER opt     -0.38    101  27 
+ KLEF HHZ GH   IP         1321 59.140              BER opt 76.0-0.2910  153  35 
+ KLEF HHE GH   ISg        1322 16.900              BER opt 94.0-0.2810  153  35 
+ KLEF HHN GH    IAML      1322 18.730 3633.0  0.10 BER opt      0.19    153  35 
+ MRON HHZ GH   IP         1322 00.630              BER opt 76.0-0.2210  162 312 
+ MRON HHN GH   ISg        1322 19.710              BER opt 94.0 0.0410  162 312 
+ MRON HHN GH    IAML      1322 21.310 7909.0  0.18 BER opt      0.57    162 312 
+                                                                                
+ 2013 1014 1302 17.8 L   5.457  -0.549 13.7  BER  4 .10 3.5LBER                1
+ GAP=260   BER 0.360       3.1     1.2  2.6  0.8267E+00  0.1440E+01  0.6621E-01E
+ 2013-10-14-1300-42S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 21:20 OP:opt  STATUS:               ID:20131014130042     3
+ OLDACT:UP  21-09-15 21:23 OP:opt  STATUS:               ID:20131014130042     3
+ OLDACT:UP  21-12-03 13:26 OP:opt  STATUS:               ID:20131014130042     3
+ OLDACT:UP  21-12-12 11:31 OP:opt  STATUS:               ID:20131014130042     3
+ ACTION:UP  21-12-24 13:06 OP:opt  STATUS:               ID:20131014130042     I
+ OLDACT:UP  21-12-23 17:45 OP:opt  STATUS:               ID:20131014130042     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1302 22.930              BER opt116.0-0.0310 27.9  59 
+ WEIJ HHN GH   ISg        1302 26.570              BER opt116.0 0.0210 27.9  59 
+ WEIJ HHE GH    IAML      1302 27.140 2938.5  0.12 BER opt     -0.38   27.9  59 
+ KUKU HHZ GH   IP         1302 31.670              BER opt 76.0-0.0710 83.7  14 
+ KUKU HHN GH    IAML      1302 33.380 1443.5  0.12 BER opt     -0.10   83.7  14 
+ AKOS HHN GH    IAML      1302 52.370 1873.0  0.24 BER opt      0.22    115  36 
+ MRON HHZ GH   IP         1302 42.230              BER opt 76.0 0.1710  149 319 
+ MRON HHN GH   ISg        1302 59.440              BER opt 95.0-0.0810  149 319 
+ MRON HHE GH    IAML      1303 04.640  552.0  0.12 BER opt     -0.12    149 319 
+ KLEF HHZ GH   IP         1302 45.090              BER opt 76.0-0.1010  168  40 
+ KLEF HHN GH   ISg        1303 05.100              BER opt 94.0 0.0910  168  40 
+ KLEF HHE GH    IAML      1303 07.400 1451.0  0.22 BER opt      0.39    168  40 
+                                                                                
+ 2013 1016 1024 06.9 L   5.782  -0.390 1.30  BER  4 .30 2.6LBER                1
+ GAP=139   BER 0.730       2.3     2.1259.5 -0.4729E+00  0.1270E+03 -0.4693E+03E
+ 2013-10-16-1022-11S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 21:36 OP:opt  STATUS:               ID:20131016102210     3
+ OLDACT:UP  21-08-29 21:26 OP:opt  STATUS:               ID:20131016102210     3
+ OLDACT:UP  21-08-29 21:28 OP:opt  STATUS:               ID:20131016102210     3
+ OLDACT:UP  21-12-03 13:26 OP:opt  STATUS:               ID:20131016102210     3
+ OLDACT:UP  21-12-12 11:31 OP:opt  STATUS:               ID:20131016102210     3
+ ACTION:UP  21-12-24 13:06 OP:opt  STATUS:               ID:20131016102210     I
+ OLDACT:UP  21-12-23 17:45 OP:opt  STATUS:               ID:20131016102210     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1024 10.370              BER opt 91.0-0.2310 22.3 164 
+ WEIJ HHN GH   ISg        1024 13.350              BER opt 91.0 0.1610 22.3 164 
+ WEIJ HHE GH    IAML      1024 13.670  812.5  0.50 BER opt     -0.24   22.3 164 
+ KUKU HHZ GH   IP         1024 13.990              BER opt 90.0-0.4210 45.5   3 
+ KUKU HHN GH   ISg        1024 19.590              BER opt 90.0-0.0710 45.5   3 
+ KUKU HHN GH    IAML      1024 27.330  990.0  0.12 BER opt      0.23   45.5   3 
+ KLEF HHZ GH   IP         1024 28.080              BER opt 90.0-0.2010  130  45 
+ KLEF HHN GH   ISg        1024 43.660              BER opt 90.0 0.4110  130  45 
+ MRON HHZ GH   IP         1024 29.930              BER opt 90.0 0.2910  138 303 
+ MRON HHN GH   ISg        1024 45.630              BER opt 90.0 0.0710  138 303 
+                                                                                
+ 2013 1026 1828 47.9 L   5.778  -0.443 13.4  BER  3 .00 3.0LBER                1
+ GAP=220   BER 0.310       1.4     5.6  3.3  0.5714E+01 -0.9768E+01 -0.3138E+01E
+ 2013-10-26-1827-26S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 21:27 OP:opt  STATUS:               ID:20131026182725     3
+ OLDACT:UP  21-09-15 21:29 OP:opt  STATUS:               ID:20131026182725     3
+ OLDACT:UP  21-12-03 13:26 OP:opt  STATUS:               ID:20131026182725     3
+ OLDACT:UP  21-12-12 11:32 OP:opt  STATUS:               ID:20131026182725     3
+ ACTION:UP  21-12-24 13:06 OP:opt  STATUS:               ID:20131026182725     I
+ OLDACT:UP  21-12-23 17:45 OP:opt  STATUS:               ID:20131026182725     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1828 52.510              BER opt119.0 0.0210 24.2 150 
+ WEIJ HHN GH   ISg        1828 55.680              BER opt119.0-0.0110 24.2 150 
+ WEIJ HHN GH    IAML      1828 56.820 2808.0  0.28 BER opt     -0.03   24.2 150 
+ KUKU HHN GH   IP         1828 55.880              BER opt106.0-0.0210 46.6  10 
+ KUKU HHE GH   ISg        1829 01.490              BER opt106.0 0.0110 46.6  10 
+ KUKU HHE GH    IAML      1829 02.690 1749.5  0.12 BER opt      0.08   46.6  10 
+ KLEF HHZ GH   IP         1829 09.930              BER opt 76.0-0.0010  135  47 
+ KLEF HHN GH    IAML      1829 33.300  283.5  0.12 BER opt     -0.05    135  47 
+                                                                                
+ 2013 1102 1512 52.9 L   5.944  -0.402 2.60  BER  4 .30 2.9LBER                1
+ GAP=128   BER 0.700       1.4     1.8 42.6  0.5179E-01  0.1308E+02  0.2663E+01E
+ 2013-11-02-1510-57S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 21:33 OP:opt  STATUS:               ID:20131102151057     3
+ OLDACT:UP  21-08-28 15:18 OP:opt  STATUS:               ID:20131102151057     3
+ OLDACT:UP  21-08-29 21:51 OP:opt  STATUS:               ID:20131102151057     3
+ OLDACT:UP  21-12-03 13:27 OP:opt  STATUS:               ID:20131102151057     3
+ OLDACT:UP  21-12-12 11:32 OP:opt  STATUS:               ID:20131102151057     3
+ ACTION:UP  21-12-24 13:06 OP:opt  STATUS:               ID:20131102151057     I
+ OLDACT:UP  21-12-23 17:45 OP:opt  STATUS:               ID:20131102151057     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ KUKU HHZ GH   IP         1512 57.250              BER opt 94.0-0.2410 27.7   8 
+ KUKU HHN GH   ISg        1513 00.570              BER opt 94.0-0.1410 27.7   8 
+ KUKU HHN GH    IAML      1513 09.460 2232.5  0.16 BER opt     -0.02   27.7   8 
+ WEIJ HHZ GH   IP         1512 59.160              BER opt 93.0-0.3610 40.1 169 
+ WEIJ HHN GH   ISg        1513 04.410              BER opt 93.0 0.2510 40.1 169 
+ WEIJ HHN GH    IAML      1513 05.330  685.0  0.14 BER opt     -0.33   40.1 169 
+ KLEF HHZ GH   IP         1513 12.300              BER opt 91.0-0.1710  119  52 
+ KLEF HHN GH    IAML      1513 13.840  541.5  0.10 BER opt      0.24    119  52 
+ KLEF HHN GH   ISg        1513 26.590              BER opt 91.0 0.4110  119  52 
+ MRON HHN GH   IP         1513 13.990              BER opt 91.0 0.0310  128 297 
+ MRON HHE GH   ISg        1513 28.920              BER opt 91.0 0.2110  128 297 
+ MRON HHE GH    IAML      1513 32.390  353.0  0.16 BER opt      0.11    128 297 
+                                                                                
+ 2013 1105 1814 47.4 L   5.463  -0.519 16.6  BER  4 .20 3.3LBER                1
+ GAP=262   BER 0.680       6.5     2.3  8.4  0.1985E+01  0.1351E+01 -0.2048E+02E
+ 2013-11-05-1812-52S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 21:32 OP:opt  STATUS:               ID:20131105181252     3
+ OLDACT:UP  21-08-28 15:00 OP:opt  STATUS:               ID:20131105181252     3
+ OLDACT:UP  21-08-28 15:00 OP:opt  STATUS:               ID:20131105181252     3
+ OLDACT:UP  21-08-29 22:06 OP:opt  STATUS:               ID:20131105181252     3
+ OLDACT:UP  21-12-03 13:27 OP:opt  STATUS:               ID:20131105181252     3
+ OLDACT:UP  21-12-12 11:33 OP:opt  STATUS:               ID:20131105181252     3
+ ACTION:UP  21-12-24 13:06 OP:opt  STATUS:               ID:20131105181252     I
+ OLDACT:UP  21-12-23 17:46 OP:opt  STATUS:               ID:20131105181252     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1814 52.310              BER opt122.0 0.0510 24.8  56 
+ WEIJ HHN GH    IAML      1814 55.330 3827.5  0.24 BER opt     -0.12   24.8  56 
+ KUKU HHZ GH   IP         1815 00.540              BER opt 95.0-0.5110 82.4  12 
+ KUKU HHN GH    IAML      1815 13.360  863.0  0.12 BER opt     -0.17   82.4  12 
+ MRON HHZ GH   IP         1815 12.060              BER opt 92.0 0.2210  150 318 
+ MRON HHE GH   ISg        1815 29.000              BER opt 92.0 0.0210  150 318 
+ MRON HHN GH    IAML      1815 29.750  349.5  0.16 BER opt     -0.15    150 318 
+ KLEF HHZ GH   IP         1815 14.220              BER opt 76.0 0.0010  166  40 
+ KLEF HHN GH   ISg        1815 33.370              BER opt 91.0 0.2210  166  40 
+ KLEF HHN GH    IAML      1815 35.470 1207.5  0.50 BER opt      0.46    166  40 
+                                                                                
+ 2013 1109 1403 25.7 L   6.173  -0.074 7.10  BER  3 .10 2.5LBER                1
+ GAP=224   BER 0.340       6.9     2.5  6.3 -0.1624E+02 -0.6682E+01  0.1932E+02E
+ 2013-11-09-1401-31S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 21:31 OP:opt  STATUS:               ID:20131109140131     3
+ OLDACT:UP  21-09-15 21:33 OP:opt  STATUS:               ID:20131109140131     3
+ OLDACT:UP  21-12-03 13:27 OP:opt  STATUS:               ID:20131109140131     3
+ OLDACT:UP  21-12-12 11:33 OP:opt  STATUS:               ID:20131109140131     3
+ OLDACT:UP  21-12-23 17:46 OP:opt  STATUS:               ID:20131109140131     3
+ ACTION:UP  21-12-24 13:07 OP:opt  STATUS:               ID:20131109140131     I
+ OLDACT:UP  21-12-24 13:06 OP:opt  STATUS:               ID:20131109140131     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ AKOS HHZ GH   IP         1403 29.420              BER opt108.0 0.0210 20.9  49 
+ AKOS HHN GH   ISg        1403 31.940              BER opt108.0-0.0110 20.9  49 
+ AKOS HHE GH    IAML      1403 32.340 1058.5  0.26 BER opt     -0.03   20.9  49 
+ KUKU HHZ GH   IP         1403 31.140              BER opt102.0-0.1110 32.7 274 
+ KUKU HHN GH   ISg        1403 35.180              BER opt102.0 0.0710 32.7 274 
+ KUKU HHN GH    IAML      1403 36.140  486.5  0.38 BER opt     -0.15   32.7 274 
+ KLEF HHZ GH   IP         1403 38.220              BER opt 95.0 0.0910 75.0  49 
+ KLEF HHN GH   ISg        1403 46.750              BER opt 95.0-0.0510 75.0  49 
+ KLEF HHE GH    IAML      1403 50.440  340.5  0.20 BER opt      0.17   75.0  49 
+                                                                                
+ 2013 1118 1852 00.5 L   5.686  -0.444 2.50  BER  412.2 2.7LBER                1
+ GAP=177   BER 31.13     147.1    93.0999.9 -0.1527E+04  0.7958E+05 -0.2669E+06E
+ 2013-11-18-1850-00S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 21:29 OP:opt  STATUS:               ID:20131118185000     3
+ OLDACT:UP  21-08-28 15:14 OP:opt  STATUS:               ID:20131118185000     3
+ OLDACT:UP  21-08-29 22:10 OP:opt  STATUS:               ID:20131118185000     3
+ OLDACT:UP  21-12-03 13:27 OP:opt  STATUS:               ID:20131118185000     3
+ OLDACT:UP  21-12-12 11:33 OP:opt  STATUS:               ID:20131118185000     3
+ ACTION:UP  21-12-24 13:07 OP:opt  STATUS:               ID:20131118185000     I
+ OLDACT:UP  21-12-23 17:46 OP:opt  STATUS:               ID:20131118185000     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1852 00.010              BER opt 97.0-3.2410 16.3 131 
+ WEIJ HHN GH   ISg        1852 03.510              BER opt 97.0-1.6610 16.3 131 
+ WEIJ HHN GH    IAML      1852 03.630  899.5  0.32 BER opt     -0.41   16.3 131 
+ KUKU HHN GH   ISg        1852 18.850              BER opt 92.0 2.4610 56.6   8 
+ KUKU HHN GH    IAML      1852 21.530  314.0  0.44 BER opt     -0.20   56.6   8 
+ MRON HHZ GH   IP         1852 19.910              BER opt 91.0-3.5510  140 308 
+ MRON HHE GH   ISg        1852 37.100              BER opt 91.0-2.4310  140 308 
+ MRON HHN GH    IAML      1852 40.670  267.0  0.30 BER opt      0.32    140 308 
+ KLEF HHN GH   ISg        1852 22.270              BER opt 91.0-17.910  142  44 
+ KLEF HHN GH    IAML      1852 43.310  234.0  0.14 BER opt      0.28    142  44 
+ KLEF HHZ GH   IP         1852 50.150              BER opt 91.0 26.310  142  44 
+                                                                                
+ 2013 1129 1909 48.4 L   5.518  -0.524 11.7  BER  4 .20 3.5LBER                1
+ GAP=246   BER 0.580       3.1     1.8  4.6  0.1050E+01  0.4222E+01 -0.1246E+01E
+ 2013-11-29-1908-01S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 21:27 OP:opt  STATUS:               ID:20131129190800     3
+ OLDACT:UP  21-08-28 15:16 OP:opt  STATUS:               ID:20131129190800     3
+ OLDACT:UP  21-08-29 22:18 OP:opt  STATUS:               ID:20131129190800     3
+ OLDACT:UP  21-08-29 22:22 OP:opt  STATUS:               ID:20131129190800     3
+ OLDACT:UP  21-12-03 13:27 OP:opt  STATUS:               ID:20131129190800     3
+ OLDACT:UP  21-12-12 11:34 OP:opt  STATUS:               ID:20131129190800     3
+ OLDACT:UP  21-12-12 11:34 OP:opt  STATUS:               ID:20131129190800     3
+ ACTION:UP  21-12-24 13:07 OP:opt  STATUS:               ID:20131129190800     I
+ OLDACT:UP  21-12-23 17:46 OP:opt  STATUS:               ID:20131129190800     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1909 52.680              BER opt117.0 0.1010 22.5  70 
+ WEIJ HHN GH    IAML      1909 53.080 2324.0  0.26 BER opt     -0.62   22.5  70 
+ WEIJ HHN GH   ISg        1909 55.480              BER opt117.0-0.0410 22.5  70 
+ KUKU HHZ GH   IP         1910 00.810              BER opt 98.0-0.3210 76.6  13 
+ KUKU HHN GH   ISg        1910 09.910              BER opt 98.0-0.1310 76.6  13 
+ KUKU HHN GH    IAML      1910 14.000 1130.5  0.20 BER opt     -0.29   76.6  13 
+ AKOS HHN GH    IAML      1910 08.330 1659.0  0.10 BER opt      0.10    108  37 
+ MRON HHZ GH   IP         1910 12.350              BER opt 76.0 0.1510  146 316 
+ MRON HHN GH   ISg        1910 29.240              BER opt 94.0 0.0710  146 316 
+ MRON HHN GH    IAML      1910 33.480 2004.5  0.10 BER opt      0.39    146 316 
+ KLEF HHZ GH   IP         1910 14.550              BER opt 76.0-0.1910  162  41 
+ KLEF HHN GH   ISg        1910 33.980              BER opt 94.0 0.3610  162  41 
+ KLEF HHN GH    IAML      1910 35.950 1879.0  0.10 BER opt      0.44    162  41 
+                                                                                
+ 2013 1210 0051 55.4 L   5.500  -0.361 11.8  BER  4 .20 3.3LBER                1
+ GAP=276   BER 0.590       5.2     1.9  2.3 -0.3633E+01  0.4319E-01 -0.1593E+01E
+ 2013-12-10-0050-39S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 21:34 OP:opt  STATUS:               ID:20131210005039     3
+ OLDACT:UP  21-09-15 21:38 OP:opt  STATUS:               ID:20131210005039     3
+ OLDACT:UP  21-12-03 13:27 OP:opt  STATUS:               ID:20131210005039     3
+ OLDACT:UP  21-12-12 11:34 OP:opt  STATUS:               ID:20131210005039     3
+ OLDACT:UP  21-12-23 17:46 OP:opt  STATUS:               ID:20131210005039     3
+ ACTION:UP  21-12-24 13:09 OP:opt  STATUS:               ID:20131210005039     I
+ OLDACT:UP  21-12-24 13:07 OP:opt  STATUS:               ID:20131210005039     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHN GH   IP         0051 57.900              BER opt139.0-0.1010 10.3  17 
+ WEIJ HHN GH   ISg        0051 59.940              BER opt139.0 0.1210 10.3  17 
+ WEIJ HHE GH    IAML      0052 00.220 8088.0  0.16 BER opt     -0.17   10.3  17 
+ KUKU HHZ GH   IP         0052 08.270              BER opt 98.0 0.1310 76.6 359 
+ KUKU HHN GH    IAML      0052 22.470 1045.5  0.12 BER opt     -0.17   76.6 359 
+ AKOS HHN GH    IAML      0052 31.920  666.0  0.24 BER opt     -0.19    100  28 
+ KLEF HHZ GH   IP         0052 19.860              BER opt 76.0-0.3510  152  36 
+ KLEF HHN GH   ISg        0052 37.920              BER opt 94.0-0.0110  152  36 
+ KLEF HHN GH    Sn        0052 37.920              BER opt 70.0 0.1210  152  36 
+ KLEF HHE GH    IAML      0052 40.560  845.0  0.10 BER opt      0.21    152  36 
+ MRON HHZ GH   IP         0052 21.830              BER opt 76.0 0.3310  160 312 
+ MRON HHN GH   ISg        0052 39.940              BER opt 94.0-0.2510  160 312 
+ MRON HHN GH    IAML      0052 42.370  991.0  0.24 BER opt      0.32    160 312 
+                                                                                
+ 2013 1211 1744 44.0 L   6.192  -0.088 0.90  BER  5 .30 3.1LBER                1
+ GAP=146   BER 0.700       3.8     1.6 10.9 -0.4165E+01 -0.6125E+01  0.2256E+02E
+ 2013-12-11-1742-47S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 21:25 OP:opt  STATUS:               ID:20131211174247     3
+ OLDACT:UP  21-08-28 15:40 OP:opt  STATUS:               ID:20131211174247     3
+ OLDACT:UP  21-08-29 22:25 OP:opt  STATUS:               ID:20131211174247     3
+ OLDACT:UP  21-12-03 13:28 OP:opt  STATUS:               ID:20131211174247     3
+ OLDACT:UP  21-12-12 11:34 OP:opt  STATUS:               ID:20131211174247     3
+ OLDACT:UP  21-12-23 17:46 OP:opt  STATUS:               ID:20131211174247     3
+ ACTION:UP  21-12-24 13:09 OP:opt  STATUS:               ID:20131211174247     I
+ OLDACT:UP  21-12-24 13:08 OP:opt  STATUS:               ID:20131211174247     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ AKOS HHZ GH   IP         1744 47.450              BER opt 75.0-0.0210 20.8  56 
+ AKOS HHN GH   ISg        1744 49.870              BER opt 93.0-0.1410 20.8  56 
+ AKOS HHN GH    IAML      1744 50.370 5626.0  0.20 BER opt      0.11   20.8  56 
+ KUKU HHZ GH   IP         1744 49.340              BER opt 75.0 0.1910 31.1 270 
+ KUKU HHN GH   ISg        1744 53.300              BER opt 92.0 0.3310 31.1 270 
+ KUKU HHN GH    IAML      1744 59.910 1407.0  0.24 BER opt     -0.28   31.1 270 
+ WEIJ HHZ GH   IP         1744 55.850              BER opt 75.0-0.0210 72.1 202 
+ WEIJ HHN GH    IAML      1745 11.410  466.5  0.34 BER opt     -0.27   72.1 202 
+ KLEF HHZ GH   IP         1744 55.970              BER opt 75.0-0.3410 74.8  51 
+ KLEF HHN GH   ISg        1745 05.970              BER opt 91.0 0.4310 74.8  51 
+ KLEF HHE GH    IAML      1745 07.480 1403.0  0.14 BER opt      0.23   74.8  51 
+ MRON HHZ GH   IP         1745 08.920              BER opt 75.0-0.1110  152 281 
+ MRON HHN GH   ISg        1745 27.570              BER opt 90.0-0.3210  152 281 
+ MRON HHN GH    IAML      1745 31.860  458.0  0.22 BER opt      0.23    152 281 
+                                                                                
+ 2013 1212 1051 48.7 L   6.216  -0.118 0.10  BER  5 .90 3.0LBER                1
+ GAP=134   BER  2.38      12.6     5.1 40.5 -0.4088E+02 -0.6330E+02  0.2523E+03E
+ 2013-12-12-1049-53S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 20:37 OP:opt  STATUS:               ID:20131212104952     3
+ OLDACT:UP  21-08-28 15:29 OP:opt  STATUS:               ID:20131212104952     3
+ OLDACT:UP  21-12-03 13:28 OP:opt  STATUS:               ID:20131212104952     3
+ OLDACT:UP  21-12-12 11:34 OP:opt  STATUS:               ID:20131212104952     3
+ OLDACT:UP  21-12-23 17:47 OP:opt  STATUS:               ID:20131212104952     3
+ ACTION:UP  21-12-24 13:09 OP:opt  STATUS:               ID:20131212104952     I
+ OLDACT:UP  21-12-24 13:08 OP:opt  STATUS:               ID:20131212104952     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ AKOS HHZ GH   IP         1051 52.400              BER opt 75.0-0.0810 22.5  66 
+ AKOS HHN GH   ISg        1051 55.390              BER opt 91.0 0.2110 22.5  66 
+ AKOS HHN GH    IAML      1051 55.950 4187.0  0.18 BER opt      0.09   22.5  66 
+ KUKU HHZ GH   IP         1051 54.040              BER opt 75.0 0.6710 27.9 265 
+ KUKU HHE GH   ISg        1051 54.580              BER opt 91.0-2.1710 27.9 265 
+ KUKU HHN GH    IAML      1051 58.520  904.0  0.20 BER opt     -0.47   27.9 265 
+ WEIJ HHZ GH   IP         1052 01.010              BER opt 75.0 0.1810 73.4 199 
+ KLEF HHZ GH   IP         1052 01.310              BER opt 75.0 0.0810 75.8  55 
+ KLEF HHN GH   ISg        1052 09.840              BER opt 90.0-0.7210 75.8  55 
+ KLEF HHE GH    IAML      1052 13.900 1053.0  0.20 BER opt      0.17   75.8  55 
+ MRON HHZ GH   IP         1052 14.230      D       BER opt 75.0 1.0710  149 281 
+ MRON HHN GH   ISg        1052 32.270              BER opt 90.0 0.7610  149 281 
+ MRON HHE GH    IAML      1052 34.090  406.5  0.14 BER opt      0.22    149 281 
+                                                                                
+ 2013 1214 1627 44.9 L   5.957  -0.461 16.2  BER  3 .00 3.1LBER                1
+ GAP=220   BER 0.330     0.900          4.3 -0.1863E+01 -0.1121E+02  0.1512E+01E
+ 2013-12-14-1625-50S.NSN___015_SEI                                             6
+ OLDACT:REG 21-08-27 20:34 OP:opt  STATUS:               ID:20131214162550     3
+ OLDACT:UP  21-08-28 15:35 OP:opt  STATUS:               ID:20131214162550     3
+ OLDACT:UP  21-12-03 13:28 OP:opt  STATUS:               ID:20131214162550     3
+ OLDACT:UP  21-12-12 11:35 OP:opt  STATUS:               ID:20131214162550     3
+ OLDACT:UP  21-12-23 17:47 OP:opt  STATUS:               ID:20131214162550     3
+ ACTION:UP  21-12-24 13:09 OP:opt  STATUS:               ID:20131214162550     I
+ OLDACT:UP  21-12-24 13:08 OP:opt  STATUS:               ID:20131214162550     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ KUKU HHZ GH   IP         1627 50.250              BER opt117.0 0.0610 28.0  21 
+ KUKU HHN GH   ISg        1627 53.870              BER opt117.0-0.0410 28.0  21 
+ KUKU HHN GH    IAML      1628 03.060 4124.0  0.14 BER opt      0.14   28.0  21 
+ WEIJ HHN GH   IP         1627 52.360              BER opt106.0-0.0610 43.1 161 
+ WEIJ HHN GH   ISg        1627 57.730              BER opt106.0 0.0410 43.1 161 
+ WEIJ HHN GH    IAML      1627 59.300  916.0  0.30 BER opt     -0.31   43.1 161 
+ KLEF HHZ GH   IP         1628 05.090              BER opt 92.0 0.0010  123  54 
+ KLEF HHN GH    IAML      1628 29.360  690.0  2.96 BER opt      0.19    123  54 
+                                                                                
+ 2013 1219 0223 36.6 L   5.661  -0.376 0.10  BER  4 2.5 3.7LBER                1
+ GAP=158   BER  6.36      12.9    18.1114.9  0.7018E+02  0.3243E+03 -0.1316E+03E
+ 2013-12-19-0221-48S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 21:40 OP:opt  STATUS:               ID:20131219022147     3
+ OLDACT:UP  21-09-15 21:42 OP:opt  STATUS:               ID:20131219022147     3
+ OLDACT:UP  21-12-03 13:28 OP:opt  STATUS:               ID:20131219022147     3
+ OLDACT:UP  21-12-12 11:35 OP:opt  STATUS:               ID:20131219022147     3
+ OLDACT:UP  21-12-23 17:47 OP:opt  STATUS:               ID:20131219022147     3
+ ACTION:UP  21-12-24 13:09 OP:opt  STATUS:               ID:20131219022147     I
+ OLDACT:UP  21-12-24 13:08 OP:opt  STATUS:               ID:20131219022147     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHN GH   IP         0223 37.490              BER opt 92.0-0.7310 9.37 149 
+ WEIJ HHN GH   ISg        0223 39.440              BER opt 92.0 0.1110 9.37 149 
+ WEIJ HHE GH    IAML      0223 39.81019264.5  0.14 BER opt     -0.39   9.37 149 
+ KUKU HHZ GH   ISg        0223 47.860              BER opt 90.0-5.6810 58.7   1 
+ KUKU HHN GH   ISg        0223 57.020              BER opt 90.0 3.4810 58.7   1 
+ KUKU HHE GH    IAML      0224 01.780 5880.5  0.12 BER opt      0.07   58.7   1 
+ KLEF HHZ GH   IP         0223 59.570              BER opt 75.0 0.0810  139  41 
+ KLEF HHN GH   ISg        0224 18.240              BER opt 90.0 1.6110  139  41 
+ MRON HHZ GH   IP         0224 00.860      D       BER opt 75.0-0.0010  147 307 
+ MRON HHE GH   ISg        0224 20.190              BER opt 90.0 1.1410  147 307 
+ MRON HHN GH    IAML      0224 22.040 2603.0  0.20 BER opt      0.33    147 307 
+                                                                                
+ 2013 1221 1820 31.5 L   5.782  -0.430 11.7  BER  3 .00 2.9LBER                1
+ GAP=215   BER 0.270       1.2     4.4  3.2  0.4058E+01 -0.1021E+02 -0.2932E+01E
+ 2013-12-21-1819-27S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 21:54 OP:opt  STATUS:               ID:20131221181927     3
+ OLDACT:UP  21-09-15 21:56 OP:opt  STATUS:               ID:20131221181927     3
+ OLDACT:UP  21-12-03 13:28 OP:opt  STATUS:               ID:20131221181927     3
+ OLDACT:UP  21-12-12 11:35 OP:opt  STATUS:               ID:20131221181927     3
+ OLDACT:UP  21-12-23 17:47 OP:opt  STATUS:               ID:20131221181927     3
+ ACTION:UP  21-12-24 13:09 OP:opt  STATUS:               ID:20131221181927     I
+ OLDACT:UP  21-12-24 13:08 OP:opt  STATUS:               ID:20131221181927     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1820 35.920              BER opt116.0 0.0110 23.9 154 
+ WEIJ HHN GH   ISg        1820 38.970              BER opt116.0-0.0110 23.9 154 
+ WEIJ HHN GH    IAML      1820 40.540 2017.5  0.30 BER opt     -0.05   23.9 154 
+ KUKU HHZ GH   IP         1820 39.300              BER opt104.0-0.0110 45.9   8 
+ KUKU HHZ GH   EP         1820 39.300              BER opt104.0-0.0110 45.9   8 
+ KUKU HHE GH   ISg        1820 44.770              BER opt104.0 0.0110 45.9   8 
+ KUKU HHN GH    IAML      1820 46.820  953.0  0.74 BER opt     -0.06   45.9   8 
+ KLEF HHN GH   IP         1820 53.350      D       BER opt 76.0-0.0210  133  46 
+ KLEF HHZ GH   IP         1820 53.380              BER opt 76.0 0.0210  133  46 
+ MRON HHE GH    IAML      1821 12.880  294.0  0.12 BER opt      0.10    135 304 
+                                                                                
+ 2013 1221 1820 23.7 L   5.736  -0.865 1.60  BER  4 1.5 3.2LBER                1
+ GAP=216   BER  3.66      19.2    21.5105.4  0.2346E+03  0.1711E+04  0.8591E+03E
+ 2013-12-21-1819-43S.NSN___015                                                 6
+ OLDACT:REG 21-09-15 21:51 OP:opy  STATUS:               ID:20131221181943     3
+ OLDACT:UP  21-09-16 23:50 OP:opt  STATUS:               ID:20131221181943     3
+ OLDACT:UP  21-12-03 13:28 OP:opt  STATUS:               ID:20131221181943     3
+ OLDACT:UP  21-12-12 11:35 OP:opt  STATUS:               ID:20131221181943     3
+ OLDACT:UP  21-12-23 17:47 OP:opt  STATUS:               ID:20131221181943     3
+ ACTION:UP  21-12-24 13:09 OP:opt  STATUS:               ID:20131221181943     I
+ OLDACT:UP  21-12-24 13:08 OP:opt  STATUS:               ID:20131221181943     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1820 35.930              BER opt 91.0 2.1610 61.1 105 
+ WEIJ HHE GH   ISg        1820 38.880              BER opt 91.0-1.9410 61.1 105 
+ WEIJ HHN GH    IAML      1820 40.560 2017.5  0.30 BER opt      0.10   61.1 105 
+ KUKU HHE GH   ISg        1820 44.400              BER opt 90.0-0.1710 74.6  47 
+ KUKU HHN GH    IAML      1820 46.790  953.0  0.74 BER opt     -0.10   74.6  47 
+ MRON HHZ GH   IP         1820 39.370      D       BER opt 90.0-1.1810  102 322 
+ KLEF HHZ GH   IP         1820 53.410              BER opt 90.0 1.1210  174  56 
+                                                                                
+ 2014 0109 1818 47.5 L   5.762  -0.399 13.9  BER  4 .40 3.1LBER                1
+ GAP=145   BER  1.04       2.9     3.0  7.3  0.5158E-01  0.4203E+01 -0.1170E+02E
+ 2014-01-09-1817-10S.NSN___015_SEI                                             6
+ OLDACT:REG 21-08-27 20:11 OP:opt  STATUS:               ID:20140109181710     3
+ OLDACT:UP  21-08-28 15:44 OP:opt  STATUS:               ID:20140109181710     3
+ OLDACT:UP  21-08-29 22:38 OP:opt  STATUS:               ID:20140109181710     3
+ OLDACT:UP  21-08-29 22:44 OP:opt  STATUS:               ID:20140109181710     3
+ OLDACT:UP  21-12-03 13:29 OP:opt  STATUS:               ID:20140109181710     3
+ OLDACT:UP  21-12-12 11:35 OP:opt  STATUS:               ID:20140109181710     3
+ ACTION:UP  21-12-24 12:56 OP:opt  STATUS:               ID:20140109181710     I
+ OLDACT:UP  21-12-23 17:48 OP:opt  STATUS:               ID:20140109181710     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1818 51.550              BER opt124.0-0.0210 20.5 159 
+ WEIJ HHE GH   ISg        1818 54.500              BER opt124.0 0.0710 20.5 159 
+ WEIJ HHN GH    IAML      1818 55.660 2361.5  0.38 BER opt     -0.26   20.5 159 
+ KUKU HHZ GH   IP         1818 54.860              BER opt106.0-0.7810 47.6   4 
+ KUKU HHN GH   ISg        1819 01.230              BER opt106.0-0.1310 47.6   4 
+ KUKU HHE GH    IAML      1819 01.420 4208.0  0.12 BER opt      0.37   47.6   4 
+ AKOS HHN GH    IAML      1819 01.620  505.0  0.12 BER opt     -0.26   78.6  41 
+ KLEF HHZ GH   IP         1819 08.910              BER opt 76.0-0.1710  132  45 
+ KLEF HHN GH   ISg        1819 25.240              BER opt 96.0 0.6310  132  45 
+ KLEF HHN GH    IAML      1819 26.990  470.0  0.10 BER opt      0.05    132  45 
+ MRON HHZ GH   IP         1819 10.090              BER opt 76.0-0.0210  139 304 
+ MRON HHN GH   ISg        1819 26.840              BER opt 95.0 0.4310  139 304 
+ MRON HHE GH    IAML      1819 27.740  498.5  0.14 BER opt      0.11    139 304 
+                                                                                
+ 2014 0110 0620 39.7 L   5.709  -0.239 14.1  BER  4 .00 2.9LBER                1
+ GAP=181   BER 0.290       1.2     1.1  2.6 -0.3340E+00  0.1239E+00 -0.2256E+01E
+ 2014-01-10-0620-21S.NSN___015                                                 6
+ OLDACT:REG 21-09-16 23:14 OP:opt  STATUS:               ID:20140110062020     3
+ OLDACT:UP  21-09-16 23:20 OP:opt  STATUS:               ID:20140110062020     3
+ OLDACT:UP  21-09-16 23:21 OP:opt  STATUS:               ID:20140110062020     3
+ OLDACT:UP  21-09-16 23:22 OP:opt  STATUS:               ID:20140110062020     3
+ OLDACT:UP  21-09-16 23:22 OP:opt  STATUS:               ID:20140110062020     3
+ OLDACT:UP  21-12-03 13:29 OP:opt  STATUS:               ID:20140110062020     3
+ OLDACT:UP  21-12-12 11:35 OP:opt  STATUS:               ID:20140110062020     3
+ OLDACT:UP  21-12-23 17:48 OP:opt  STATUS:               ID:20140110062020     3
+ ACTION:UP  21-12-24 12:56 OP:opt  STATUS:               ID:20140110062020     I
+ OLDACT:UP  21-12-24 12:56 OP:opt  STATUS:               ID:20140110062020     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         0620 43.410              BER opt130.0 0.0210 17.0 218 
+ WEIJ HHN GH   ISg        0620 45.930              BER opt130.0-0.0210 17.0 218 
+ WEIJ HHE GH    IAML      0620 46.690  838.5  0.20 BER opt     -0.49   17.0 218 
+ KUKU HHZ GH   IP         0620 49.120              BER opt 76.0-0.0010 55.3 345 
+ KUKU HHN GH   ISg        0620 55.740              BER opt104.0 0.0410 55.3 345 
+ KUKU HHE GH    IAML      0620 56.740 1787.5  0.12 BER opt      0.36   55.3 345 
+ KLEF HHE GH   ISg        0621 14.900              BER opt 96.0-0.0210  125  37 
+ KLEF HHE GH    IAML      0621 20.000  319.0  0.10 BER opt      0.12    125  37 
+ MRON HHE GH   ISg        0621 23.670              BER opt 95.0-0.0210  157 302 
+                                                                                
+ 2014 0113 2209 02.5 L   5.583  -0.299 10.7  BER  3 .40 2.9LBER                1
+ GAP=243   BER 0.940       7.3     3.2  4.9 -0.7656E+01  0.1485E+01 -0.2456E+02E
+ 2014-01-13-2207-29S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 20:16 OP:opt  STATUS:               ID:20140113220729     3
+ OLDACT:UP  21-08-29 22:50 OP:opt  STATUS:               ID:20140113220729     3
+ OLDACT:UP  21-12-03 13:29 OP:opt  STATUS:               ID:20140113220729     3
+ OLDACT:UP  21-12-12 11:36 OP:opt  STATUS:               ID:20140113220729     3
+ OLDACT:UP  21-12-23 17:48 OP:opt  STATUS:               ID:20140113220729     3
+ ACTION:UP  21-12-24 12:57 OP:opt  STATUS:               ID:20140113220729     I
+ OLDACT:UP  21-12-24 12:56 OP:opt  STATUS:               ID:20140113220729     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         2209 04.360              BER opt161.0-0.0310 3.80 279 
+ WEIJ HHN GH   ISg        2209 05.730              BER opt161.0 0.0210 3.80 279 
+ WEIJ HHE GH    IAML      2209 06.210 5890.5  0.22 BER opt      0.01   3.80 279 
+ KLEF HHZ GH   IP         2209 25.000              BER opt 76.0-0.5210  140  36 
+ KLEF HHN GH   ISg        2209 42.110              BER opt 94.0 0.3010  140  36 
+ KLEF HHE GH    IAML      2209 44.250  303.0  0.12 BER opt      0.18    140  36 
+ MRON HHZ GH   IP         2209 29.070              BER opt 76.0 0.5510  159 308 
+ MRON HHN GH   ISg        2209 46.750              BER opt 94.0-0.3110  159 308 
+ MRON HHN GH    IAML      2209 52.480  102.5  0.58 BER opt     -0.19    159 308 
+                                                                                
+ 2014 0121 1819 06.9 L   5.786  -0.420 1.10  BER  4 .10 2.9LBER                1
+ GAP=147   BER 0.310     0.600   0.900  4.4  0.1076E+00 -0.3150E+00  0.4287E+00E
+ 2014-01-21-1818-02S.NSN___015                                                 6
+ OLDACT:REG 21-09-16 23:16 OP:opt  STATUS:               ID:20140121181801     3
+ OLDACT:UP  21-09-16 23:25 OP:opt  STATUS:               ID:20140121181801     3
+ OLDACT:UP  21-12-03 13:29 OP:opt  STATUS:               ID:20140121181801     3
+ OLDACT:UP  21-12-12 11:36 OP:opt  STATUS:               ID:20140121181801     3
+ OLDACT:UP  21-12-23 17:48 OP:opt  STATUS:               ID:20140121181801     3
+ ACTION:UP  21-12-24 12:57 OP:opt  STATUS:               ID:20140121181801     I
+ OLDACT:UP  21-12-24 12:56 OP:opt  STATUS:               ID:20140121181801     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1819 10.810              BER opt 75.0-0.0510 23.9 156 
+ WEIJ HHZ GH   EP         1819 10.810              BER opt 75.0-0.0510 23.9 156 
+ WEIJ HHE GH   ISg        1819 13.850              BER opt 93.0 0.0610 23.9 156 
+ WEIJ HHE GH    IAML      1819 14.340 1670.0  0.42 BER opt     -0.15   23.9 156 
+ KUKU HHE GH   IP         1819 14.460              BER opt 75.0 0.1010 45.2   7 
+ KUKU HHE GH   ISg        1819 19.860              BER opt 92.0-0.0810 45.2   7 
+ KUKU HHN GH    IAML      1819 21.790  785.0  0.30 BER opt     -0.13   45.2   7 
+ KLEF HHZ GH   IP         1819 28.510              BER opt 75.0-0.0910  132  46 
+ KLEF HHN GH   ISg        1819 45.040              BER opt 91.0 0.0810  132  46 
+ KLEF HHN GH    IAML      1819 51.820  329.5  0.22 BER opt      0.17    132  46 
+ MRON HHE GH   ISg        1819 45.900              BER opt 91.0 0.0210  135 304 
+ MRON HHN GH    IAML      1819 47.680  275.0  0.16 BER opt      0.11    135 304 
+                                                                                
+ 2014 0205 1636 08.4 L   6.104  -0.052 3.30  BER  4 .10 2.8LBER                1
+ GAP=241   BER 0.410       5.4     1.7 21.6 -0.8148E+01 -0.2287E+02  0.8395E+02E
+ 2014-02-05-1634-34S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 20:06 OP:opt  STATUS:               ID:20140205163434     3
+ OLDACT:UP  21-08-28 15:46 OP:opt  STATUS:               ID:20140205163434     3
+ OLDACT:UP  21-08-29 22:55 OP:opt  STATUS:               ID:20140205163434     3
+ OLDACT:UP  21-08-29 22:58 OP:opt  STATUS:               ID:20140205163434     3
+ OLDACT:UP  21-12-03 13:29 OP:opt  STATUS:               ID:20140205163434     3
+ OLDACT:UP  21-12-12 11:36 OP:opt  STATUS:               ID:20140205163434     3
+ ACTION:UP  21-12-24 12:57 OP:opt  STATUS:               ID:20140205163434     I
+ OLDACT:UP  21-12-23 17:48 OP:opt  STATUS:               ID:20140205163434     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ AKOS HHZ GH   IP         1636 12.550              BER opt 96.0-0.0710 25.3  32 
+ AKOS HHN GH   ISg        1636 15.570              BER opt 96.0-0.0010 25.3  32 
+ AKOS HHE GH    IAML      1636 16.150 2669.5  0.18 BER opt      0.13   25.3  32 
+ AKOS HHE GH    IAML      1636 16.160 2669.5  0.18 BER opt      0.13   25.3  32 
+ KUKU HHZ GH   IP         1636 14.240              BER opt 94.0-0.1810 36.4 286 
+ KUKU HHE GH   ISg        1636 18.650              BER opt 94.0 0.0010 36.4 286 
+ KUKU HHT GH   ISg        1636 18.700              BER opt 94.0 0.0510 36.4 286 
+ KUKU HHN GH   ISg        1636 18.750              BER opt 94.0 0.1010 36.4 286 
+ KUKU HHN GH    IAML      1636 18.830  617.5  0.30 BER opt     -0.32   36.4 286 
+ KUKU HHE GH    IAML      1636 22.400  640.5  0.16 BER opt     -0.30   36.4 286 
+ KLEF HHZ GH   IP         1636 21.620              BER opt 92.0 0.3010 78.5  44 
+ KLEF HHN GH   ISg        1636 30.240              BER opt 92.0-0.1310 78.5  44 
+ KLEF HHN GH    IAML      1636 32.510  696.0  0.12 BER opt      0.18   78.5  44 
+ MRON HHZ GH   IP         1636 34.340              BER opt 91.0-0.0810  158 285 
+ MRON HHE GH    IAML      1636 37.020  239.0  0.14 BER opt      0.21    158 285 
+ MRON HHN GH   ISg        1636 52.640              BER opt 91.0 0.0010  158 285 
+                                                                                
+ 2014 0212 1849 34.6 L   5.456  -0.537 15.0  BER  5 .40 3.9LBER                1
+ GAP=261   BER  1.01       6.0     3.2  9.9  0.4700E+01  0.1651E+02  0.7728E+01E
+ 2014-02-12-1846-47S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 20:05 OP:opt  STATUS:               ID:20140212184647     3
+ OLDACT:UP  21-08-28 15:49 OP:opt  STATUS:               ID:20140212184647     3
+ OLDACT:UP  21-08-29 22:59 OP:opt  STATUS:               ID:20140212184647     3
+ OLDACT:UP  21-12-03 13:29 OP:opt  STATUS:               ID:20140212184647     3
+ OLDACT:UP  21-12-12 11:36 OP:opt  STATUS:               ID:20140212184647     3
+ ACTION:UP  21-12-24 12:57 OP:opt  STATUS:               ID:20140212184647     I
+ OLDACT:UP  21-12-23 17:49 OP:opt  STATUS:               ID:20140212184647     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1849 39.940              BER opt116.0 0.2510 26.9  57 
+ WEIJ HHN GH   ISg        1849 42.670              BER opt116.0-0.5610 26.9  57 
+ WEIJ HHN GH    IAML      1849 43.070 6117.0  0.38 BER opt     -0.45   26.9  57 
+ KUKU HHZ GH   IP         1849 48.120              BER opt 92.0-0.3710 83.5  13 
+ KUKU HHN GH   ISg        1849 58.450              BER opt 92.0 0.2610 83.5  13 
+ KUKU HHE GH    IAML      1850 00.910 5986.5  0.12 BER opt      0.13   83.5  13 
+ AKOS HHZ GH   IP         1849 53.390              BER opt 91.0-0.0510  115  36 
+ AKOS HHN GH    IAML      1849 55.970 2488.5  0.22 BER opt     -0.04    115  36 
+ MRON HHZ GH   IP         1849 59.550              BER opt 91.0 0.5710  150 318 
+ MRON HHN GH   ISg        1850 15.560              BER opt 91.0-0.4610  150 318 
+ MRON HHN GH    IAML      1850 20.410 1636.0  0.46 BER opt     -0.03    150 318 
+ KLEF HHZ GH   IP         1850 01.810              BER opt 76.0-0.0210  168  40 
+ KLEF HHN GH    IAML      1850 02.390 3594.0  0.12 BER opt      0.40    168  40 
+ KLEF HHN GH   ISg        1850 21.280              BER opt 91.0 0.3810  168  40 
+                                                                                
+ 2014 0213 0804 56.2 L   5.557  -0.282 14.3  BER  5 .90 3.1LBER                1
+ GAP=267   BER  2.31      17.6     8.1 15.2 -0.3767E+02 -0.4062E+01 -0.2001E+03E
+ 2014-02-13-0803-12S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 20:03 OP:opt  STATUS:               ID:20140213080311     3
+ OLDACT:UP  21-09-09 13:39 OP:opt  STATUS:               ID:20140213080311     3
+ OLDACT:UP  21-12-03 13:30 OP:opt  STATUS:               ID:20140213080311     3
+ OLDACT:UP  21-12-12 11:36 OP:opt  STATUS:               ID:20140213080311     3
+ ACTION:UP  21-12-24 12:57 OP:opt  STATUS:               ID:20140213080311     I
+ OLDACT:UP  21-12-23 17:49 OP:opt  STATUS:               ID:20140213080311     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         0804 58.830              BER opt155.0 0.0410 6.65 302 
+ WEIJ HHN GH   ISg        0805 00.580              BER opt155.0-0.0510 6.65 302 
+ WEIJ HHE GH    IAML      0805 00.870 4161.0  0.18 BER opt     -0.24   6.65 302 
+ KUKU HHZ GH   IP         0805 08.270              BER opt 91.0 0.2510 70.9 352 
+ KUKU HHN GH   ISg        0805 16.590              BER opt 91.0 0.2710 70.9 352 
+ KUKU HHE GH    IAML      0805 20.600 1080.5  0.12 BER opt      0.01   70.9 352 
+ AKOS HHZ GH   IP         0805 11.820              BER opt 91.0 0.6610 90.7  25 
+ AKOS HHE GH   ISg        0805 22.970              BER opt 91.0 1.3110 90.7  25 
+ KLEF HHN GH   ISg        0805 33.480              BER opt 90.0-1.9510  142  34 
+ KLEF HHN GH    IAML      0805 36.970  608.5  0.10 BER opt      0.23    142  34 
+ MRON HHE GH   ISg        0805 40.530              BER opt 90.0-0.5410  163 308 
+ MRON HHN GH    IAML      0805 51.170  176.0  47.2 BER opt              163 308 
+                                                                                
+ 2014 0213 0811 26.8 L   5.621  -0.264 1.70  BER  5 2.0 3.3LBER                1
+ GAP=210   BER  5.28      29.1    15.7239.0 -0.1578E+03 -0.2635E+03 -0.5473E+04E
+ 2014-02-13-0809-40S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 20:02 OP:opt  STATUS:               ID:20140213080939     3
+ OLDACT:UP  21-08-29 23:20 OP:opt  STATUS:               ID:20140213080939     3
+ OLDACT:UP  21-08-29 23:21 OP:opt  STATUS:               ID:20140213080939     3
+ OLDACT:UP  21-12-03 13:30 OP:opt  STATUS:               ID:20140213080939     3
+ OLDACT:UP  21-12-12 11:36 OP:opt  STATUS:               ID:20140213080939     3
+ ACTION:UP  21-12-24 12:58 OP:opt  STATUS:               ID:20140213080939     I
+ OLDACT:UP  21-12-23 17:49 OP:opt  STATUS:               ID:20140213080939     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         0811 27.230              BER opt 99.0-0.9810 8.50 245 
+ WEIJ HHE GH   ISg        0811 29.070              BER opt 99.0-0.1610 8.50 245 
+ WEIJ HHN GH    IAML      0811 29.40016205.0  0.20 BER opt     -0.08   8.50 245 
+ KUKU HHZ GH   IP         0811 36.580              BER opt 91.0-0.7610 64.3 350 
+ KUKU HHN GH   ISg        0811 44.560              BER opt 91.0-0.2010 64.3 350 
+ KUKU HHE GH    IAML      0811 46.570 1706.0  0.12 BER opt      0.01   64.3 350 
+ AKOS HHZ GH   IP         0811 39.670              BER opt 91.0-0.8210 83.4  26 
+ AKOS HHN GH   ISg        0811 51.030              BER opt 91.0 0.9310 83.4  26 
+ AKOS HHE GH    IAML      0811 52.400  619.0  0.26 BER opt     -0.27   83.4  26 
+ KLEF HHZ GH   IP         0811 47.920              BER opt 90.0-0.9810  135  35 
+ KLEF HHN GH   ISg        0812 04.340              BER opt 90.0-0.0510  135  35 
+ KLEF HHE GH    IAML      0812 05.620 1092.5  0.50 BER opt      0.31    135  35 
+ MRON HHZ GH   IP         0811 58.550              BER opt 90.0 5.5110  160 306 
+ MRON HHE GH   ISg        0812 08.940              BER opt 90.0-2.4910  160 306 
+ MRON HHN GH    IAML      0812 09.970  416.5  0.18 BER opt      0.02    160 306 
+                                                                                
+ 2014 0223 1519 46.7 L   5.787  -0.397 0.00  BER  4 .20 2.6LBER                1
+ GAP=141   BER 0.520     1.000          8.3  0.2231E+00  0.5727E+00  0.8888E+00E
+ 2014-02-23-1518-10S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 19:58 OP:opt  STATUS:               ID:20140223151809     3
+ OLDACT:UP  21-08-28 15:52 OP:opt  STATUS:               ID:20140223151809     3
+ OLDACT:UP  21-08-29 23:23 OP:opt  STATUS:               ID:20140223151809     3
+ OLDACT:UP  21-08-29 23:28 OP:opt  STATUS:               ID:20140223151809     3
+ OLDACT:UP  21-12-03 13:30 OP:opt  STATUS:               ID:20140223151809     3
+ OLDACT:UP  21-12-12 11:37 OP:opt  STATUS:               ID:20140223151809     3
+ ACTION:UP  21-12-24 12:58 OP:opt  STATUS:               ID:20140223151809     I
+ OLDACT:UP  21-12-23 17:49 OP:opt  STATUS:               ID:20140223151809     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1519 50.540              BER opt 75.0-0.0110 23.0 162 
+ WEIJ HHE GH   ISg        1519 53.300              BER opt 91.0-0.0110 23.0 162 
+ WEIJ HHN GH    IAML      1519 54.900  824.0  0.30 BER opt     -0.26   23.0 162 
+ KUKU HHZ GH   IP         1519 54.090              BER opt 75.0-0.0610 45.0   4 
+ KUKU HHN GH   ISg        1519 59.790              BER opt 90.0 0.1510 45.0   4 
+ KUKU HHN GH    IAML      1520 05.290  194.0  0.12 BER opt     -0.52   45.0   4 
+ AKOS HHE GH    IAML      1520 13.800  226.0  0.20 BER opt     -0.14   76.5  42 
+ KLEF HHZ GH   IP         1520 08.130              BER opt 75.0-0.0110  130  45 
+ KLEF HHN GH   ISg        1520 24.120              BER opt 90.0-0.1110  130  45 
+ KLEF HHE GH    IAML      1520 29.850  540.0  0.14 BER opt      0.59    130  45 
+ MRON HHZ GH   IP         1520 09.650      D       BER opt 75.0 0.3510  137 303 
+ MRON HHE GH   ISg        1520 25.970              BER opt 90.0-0.2910  137 303 
+ MRON HHN GH    IAML      1520 27.090  257.5  0.14 BER opt      0.31    137 303 
+                                                                                
+ 2014 0227 1515 32.5 L   6.276  -0.112 14.1  BER  4 .70 2.5LBER                1
+ GAP=166   BER  1.77       8.0     7.3 13.4 -0.3415E+02 -0.4960E+02  0.2748E+02E
+ 2014-02-27-1515-08S.NSN___015                                                 6
+ OLDACT:REG 21-09-16 23:17 OP:opt  STATUS:               ID:20140227151508     3
+ OLDACT:UP  21-09-16 23:31 OP:opt  STATUS:               ID:20140227151508     3
+ OLDACT:UP  21-12-03 13:30 OP:opt  STATUS:               ID:20140227151508     3
+ OLDACT:UP  21-12-12 11:37 OP:opt  STATUS:               ID:20140227151508     3
+ ACTION:UP  21-12-24 12:58 OP:opt  STATUS:               ID:20140227151508     I
+ OLDACT:UP  21-12-23 17:49 OP:opt  STATUS:               ID:20140227151508     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ AKOS HHZ GH   IP         1515 36.170              BER opt125.0-0.3610 20.0  83 
+ KUKU HHZ GH   IP         1515 37.920              BER opt115.0-0.0110 29.9 252 
+ KUKU HHN GH   ISg        1515 41.860              BER opt115.0 0.1210 29.9 252 
+ KUKU HHN GH    IAML      1515 42.360  438.0  0.28 BER opt     -0.18   29.9 252 
+ KLEF HHZ GH   IP         1515 45.100              BER opt 76.0 0.6410 71.6  58 
+ KLEF HHE GH    IAML      1515 58.690  256.5  0.12 BER opt      0.05   71.6  58 
+ WEIJ HHZ GH   IP         1515 44.490              BER opt 76.0-1.2610 79.8 198 
+ WEIJ HHN GH    IAML      1515 44.880  276.0  0.22 BER opt      0.14   79.8 198 
+ WEIJ HHN GH   ISg        1515 56.010              BER opt100.0 0.8810 79.8 198 
+                                                                                
+ 2014 0301 1819 30.5 L   5.738  -0.471 21.1  BER  3 .20 3.1LBER                1
+ GAP=236   BER 0.610       2.3     4.9  4.8  0.2888E+01 -0.5534E+01 -0.7073E+01E
+ 2014-03-01-1817-55S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 16:01 OP:opt  STATUS:               ID:20140301181754     3
+ OLDACT:UP  21-08-28 15:54 OP:opt  STATUS:               ID:20140301181754     3
+ OLDACT:UP  21-08-29 23:29 OP:opt  STATUS:               ID:20140301181754     3
+ OLDACT:UP  21-12-03 13:30 OP:opt  STATUS:               ID:20140301181754     3
+ OLDACT:UP  21-12-03 13:30 OP:opt  STATUS:               ID:20140301181754     3
+ OLDACT:UP  21-12-12 11:37 OP:opt  STATUS:               ID:20140301181754     3
+ OLDACT:UP  21-12-23 17:50 OP:opt  STATUS:               ID:20140301181754     3
+ ACTION:UP  21-12-24 12:58 OP:opt  STATUS:               ID:20140301181754     I
+ OLDACT:UP  21-12-23 17:50 OP:opt  STATUS:               ID:20140301181754     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         1819 35.890              BER opt132.0 0.3410 22.5 137 
+ WEIJ HHE GH   ISg        1819 38.860              BER opt132.0-0.2110 22.5 137 
+ WEIJ HHN GH    IAML      1819 40.010 3026.0  0.36 BER opt     -0.01   22.5 137 
+ KUKU HHZ GH   IP         1819 39.280              BER opt109.0-0.2910 51.5  13 
+ KUKU HHN GH   ISg        1819 46.080              BER opt109.0 0.1610 51.5  13 
+ KUKU HHN GH    IAML      1819 51.260  741.0  0.12 BER opt     -0.29   51.5  13 
+ KUKU HHE GH    IAML      1819 51.260 1692.0  0.12 BER opt      0.07   51.5  13 
+ KLEF HHZ GH   IP         1819 53.190              BER opt 76.0-0.0310  140  46 
+ KLEF HHN GH   ISg        1820 09.420              BER opt 95.0 0.0210  140  46 
+ KLEF HHE GH    IAML      1820 14.690  562.0  0.48 BER opt      0.20    140  46 
+                                                                                
+ 2014 0308 2303 35.7 L   5.388  -0.380 10.5  BER  4 .20 3.7LBER                1
+ GAP=327   BER 0.640       9.9     8.7  8.8 -0.6869E+02 -0.5614E+02  0.6707E+02E
+ 2014-03-08-2301-40S.NSN___015                                                 6
+ OLDACT:REG 21-08-27 15:59 OP:opt  STATUS:               ID:20140308230140     3
+ OLDACT:UP  21-08-28 15:57 OP:opt  STATUS:               ID:20140308230140     3
+ OLDACT:UP  21-08-29 23:31 OP:opt  STATUS:               ID:20140308230140     3
+ OLDACT:UP  21-12-03 13:31 OP:opt  STATUS:               ID:20140308230140     3
+ OLDACT:UP  21-12-12 11:37 OP:opt  STATUS:               ID:20140308230140     3
+ ACTION:UP  21-12-24 12:58 OP:opt  STATUS:               ID:20140308230140     I
+ OLDACT:UP  21-12-23 17:50 OP:opt  STATUS:               ID:20140308230140     3
+ STAT COM NTLO IPHASE   W HHMM SS.SSS   PAR1  PAR2 AGA OPE  AIN  RES W  DIS CAZ7
+ WEIJ HHZ GH   IP         2303 40.060              BER opt115.0 0.2610 22.8  13 
+ WEIJ HHE GH   ISg        2303 42.380              BER opt115.0-0.3210 22.8  13 
+ WEIJ HHN GH    IAML      2303 42.760 7467.5  0.20 BER opt     -0.36   22.8  13 
+ KUKU HHZ GH   IP         2303 50.480              BER opt 96.0 0.0910 89.0   1 
+ AKOS HHE GH   ISg        2304 07.350              BER opt 95.0 0.2010  112  26 
+ AKOS HHN GH    IAML      2304 09.640 1145.5  0.10 BER opt     -0.28    112  26 
+ KLEF HHZ GH   IP         2304 02.030              BER opt 76.0-0.3010  163  34 
+ KLEF HHN GH   ISg        2304 21.400              BER opt 93.0 0.0710  163  34 
+ KLEF HHN GH    IAML      2304 22.860 3703.5  0.10 BER opt      0.50    163  34 
+ MRON HHN GH    IAML      2304 24.450 1460.0  0.14 BER opt      0.12    167 316 
+                                                                                
